@@ -622,6 +622,7 @@ const UIController = (function() {
   function handleShare() {
     const puzzle = GameState.getPuzzle();
     const state = GameState.getState();
+    Analytics.trackShare(state.cluesRevealed, state.score);
     const stats = StorageManager.getStats();
     const tries = state.guesses.length;
     const target = puzzle.word.toUpperCase().replace(/[\s-]/g, '');

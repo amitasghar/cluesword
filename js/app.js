@@ -255,6 +255,7 @@ const App = (function() {
    * Handle mode change
    */
   function handleModeChange(mode) {
+    Analytics.trackModeChange(mode);
     if (mode === 'daily') {
       startDailyMode();
     } else if (mode === 'quickplay') {
@@ -266,6 +267,7 @@ const App = (function() {
    * Handle category selection
    */
   async function handleCategorySelect(category) {
+    Analytics.trackCategorySelect(category);
     await startQuickPlayMode(category);
   }
 
@@ -283,11 +285,22 @@ const App = (function() {
     const result = GameState.submitGuess(guess);
 
     if (!result.success) {
+      Analytics.trackInvalidGuess(result.error);
       UIController.showError(result.error);
       return;
     }
 
     const puzzle = GameState.getPuzzle();
+    const isDaily = currentMode === 'daily';
+
+    // Track the guess
+    Analytics.trackGuess(result.guessNumber || GameState.getState().guesses.length, puzzle.category, isDaily);
+
+    // Track completion
+    if (result.correct) {
+      Analytics.trackPuzzleCompleted(result.cluesRevealed, result.score, puzzle.category, isDaily);
+    }
+
     UIController.updateAfterGuess(result, puzzle);
   }
 

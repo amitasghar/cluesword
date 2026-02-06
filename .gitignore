@@ -42,3 +42,6 @@ npm-debug.log*
 
 # Input files (already processed)
 data/toadd.txt
+
+# Local Netlify folder
+.netlify
