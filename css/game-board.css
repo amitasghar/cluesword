@@ -1,0 +1,252 @@
+/* CluesWord - Game Board Styles */
+
+/* Game Board Container */
+.game-board {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+/* Clues Container */
+.clues-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.clue-card {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md);
+  background: var(--white);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.clue-card.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.clue-card.revealed {
+  opacity: 1;
+  transform: translateY(0);
+  background: var(--bg-secondary);
+}
+
+.clue-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  background: var(--accent-primary);
+  color: var(--white);
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.clue-text {
+  color: var(--text-primary);
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+/* Letter Boxes Container */
+.letter-boxes-container {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-md) 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* Word group — keeps letters together, breaks only between words */
+.letter-word-group {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: var(--spacing-sm);
+}
+
+/* Individual Letter Box */
+.letter-box {
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius);
+  background: var(--white);
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  transition: var(--transition);
+}
+
+.letter-box.size-medium {
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.25rem;
+}
+
+.letter-box.size-small {
+  width: 2.1rem;
+  height: 2.1rem;
+  font-size: 1rem;
+}
+
+.letter-box.revealed {
+  background-color: var(--accent-correct);
+  border-color: var(--accent-correct);
+  color: var(--white);
+  animation: revealPop 0.4s ease;
+}
+
+@keyframes revealPop {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+
+.letter-box.spacer {
+  border: none;
+  background: transparent;
+  width: 1rem;
+}
+
+.letter-box.hyphen {
+  border: none;
+  background: transparent;
+  width: 1.5rem;
+}
+
+.letter-box.hyphen::after {
+  content: '-';
+  color: var(--text-secondary);
+}
+
+/* Typing Progress Dots */
+.typing-dots-container {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-xs) 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.dot-word-group {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: var(--spacing-sm);
+}
+
+.letter-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--border-color);
+  transition: background-color 0.15s ease;
+}
+
+.letter-dot.dot-filled {
+  background-color: var(--accent-primary);
+}
+
+.letter-dot.dot-spacer {
+  background: transparent;
+  width: 1rem;
+}
+
+/* Hide dots when puzzle is complete */
+.puzzle-complete .typing-dots-container {
+  display: none;
+}
+
+/* Wrong Position Letters Section */
+.wrong-position-section {
+  text-align: center;
+  min-height: 60px;
+}
+
+.wrong-position-label {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin-bottom: var(--spacing-xs);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.wrong-position-letters {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-xs);
+  flex-wrap: wrap;
+}
+
+.wrong-letter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  background-color: var(--accent-wrong-pos);
+  color: var(--white);
+  font-size: 0.875rem;
+  font-weight: 700;
+  border-radius: 4px;
+  animation: letterAppear 0.3s ease;
+}
+
+@keyframes letterAppear {
+  from {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Empty state */
+.wrong-position-section:empty,
+.wrong-position-letters:empty {
+  min-height: 0;
+}
+
+.wrong-position-section:has(.wrong-position-letters:empty) .wrong-position-label {
+  display: none;
+}
+
+/* Guess feedback flash */
+.letter-boxes-container.correct-flash {
+  animation: correctFlash 0.5s ease;
+}
+
+@keyframes correctFlash {
+  0%, 100% { filter: none; }
+  50% { filter: brightness(1.1); }
+}
+
+.letter-boxes-container.wrong-flash .letter-box:not(.revealed) {
+  animation: wrongFlash 0.3s ease;
+}
+
+@keyframes wrongFlash {
+  0%, 100% { border-color: var(--border-color); }
+  50% { border-color: var(--accent-wrong); }
+}

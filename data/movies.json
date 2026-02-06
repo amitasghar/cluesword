@@ -1,0 +1,112 @@
+[
+  {
+    "id": "qp-movies-001",
+    "category": "Movies",
+    "word": "AVATAR",
+    "clues": [
+      "This sci-fi film takes place on a moon called Pandora",
+      "Features blue-skinned alien beings called Na'vi",
+      "Was the highest-grossing film of all time"
+    ],
+    "factoid": "James Cameron worked on Avatar for 15 years before release."
+  },
+  {
+    "id": "qp-movies-002",
+    "category": "Movies",
+    "word": "FROZEN",
+    "clues": [
+      "This animated film features a queen with ice powers",
+      "The song 'Let It Go' became a worldwide phenomenon",
+      "Set in the kingdom of Arendelle"
+    ],
+    "factoid": "Frozen took 6 years to develop and animate."
+  },
+  {
+    "id": "qp-movies-003",
+    "category": "Movies",
+    "word": "JAWS",
+    "clues": [
+      "This 1975 thriller made audiences afraid of the water",
+      "Features a great white shark terrorizing a beach town",
+      "Directed by Steven Spielberg"
+    ],
+    "factoid": "The mechanical shark was nicknamed 'Bruce' after Spielberg's lawyer."
+  },
+  {
+    "id": "qp-movies-004",
+    "category": "Movies",
+    "word": "ROCKY",
+    "clues": [
+      "This underdog sports film launched a franchise",
+      "Features a boxer from Philadelphia",
+      "Written by and starring Sylvester Stallone"
+    ],
+    "factoid": "The famous steps scene was filmed with just two takes."
+  },
+  {
+    "id": "qp-movies-005",
+    "category": "Movies",
+    "word": "SHREK",
+    "clues": [
+      "This animated film features a green ogre",
+      "Takes place in a fairy tale world called Far Far Away",
+      "Features a talking donkey voiced by Eddie Murphy"
+    ],
+    "factoid": "Shrek was originally going to be voiced by Chris Farley."
+  },
+  {
+    "id": "qp-movies-006",
+    "category": "Movies",
+    "word": "ETERNAL SUNSHINE OF THE SPOTLESS MIND",
+    "clues": [
+      "This film explores what happens when you erase memories of a relationship",
+      "Stars Jim Carrey in a rare dramatic role alongside Kate Winslet",
+      "Written by Charlie Kaufman, directed by Michel Gondry"
+    ],
+    "factoid": "The title comes from an Alexander Pope poem about a heartbroken nun."
+  },
+  {
+    "id": "qp-movies-007",
+    "category": "Movies",
+    "word": "LORD OF THE RINGS",
+    "clues": [
+      "This epic fantasy trilogy was filmed entirely in New Zealand",
+      "Features hobbits, elves, and a quest to destroy a powerful artifact",
+      "Based on J.R.R. Tolkien's novels, directed by Peter Jackson"
+    ],
+    "factoid": "All three films were shot simultaneously over 438 consecutive days."
+  },
+  {
+    "id": "qp-movies-008",
+    "category": "Movies",
+    "word": "ET",
+    "clues": [
+      "This 1982 Spielberg film features a stranded alien visitor",
+      "A boy hides the creature in his closet and helps it 'phone home'",
+      "The flying bicycle scene is one of cinema's most iconic images"
+    ],
+    "factoid": "M&Ms turned down a product placement deal, so Reese's Pieces were used instead."
+  },
+  {
+    "id": "qp-movies-009",
+    "category": "Movies",
+    "word": "BLADE RUNNER",
+    "clues": [
+      "This dystopian sci-fi noir is set in a rain-soaked future Los Angeles",
+      "A detective hunts down rogue artificial humans called replicants",
+      "Stars Harrison Ford, directed by Ridley Scott"
+    ],
+    "factoid": "The film flopped at the box office but became one of the most influential sci-fi films ever."
+  },
+  {
+    "id": "qp-movies-010",
+    "category": "Movies",
+    "word": "ONE BATTLE AFTER ANOTHER",
+    "clues": [
+      "This film follows characters through relentless conflict and survival",
+      "The title itself describes the exhausting cycle of its story",
+      "A gritty drama about perseverance against overwhelming odds"
+    ],
+    "factoid": "The film's title became a popular phrase for describing life's continuous challenges."
+  }
+]

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CluesWord - Daily Word Puzzle</title>
+  <meta name="description" content="Guess the word from progressive clues. Daily challenges and quick play mode.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧩</text></svg>">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css?v=1.3">
+  <link rel="stylesheet" href="css/game-board.css?v=1.3">
+  <link rel="stylesheet" href="css/modals.css?v=1.3">
+  <link rel="stylesheet" href="css/responsive.css?v=1.3">
+
+  <!-- Preconnect for fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-left">
+        <button class="icon-button" id="help-btn" aria-label="How to play">?</button>
+      </div>
+      <div class="header-center">
+        <h1 class="game-title">CluesWord</h1>
+      </div>
+      <div class="header-right">
+        <button class="icon-button" id="stats-btn" aria-label="Statistics">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="4" y="14" width="4" height="7"/>
+            <rect x="10" y="10" width="4" height="11"/>
+            <rect x="16" y="3" width="4" height="18"/>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Mode Selector -->
+    <div class="mode-selector">
+      <button class="mode-btn active" id="daily-mode-btn">Daily</button>
+      <button class="mode-btn" id="quickplay-mode-btn">Quick Play</button>
+    </div>
+
+    <!-- Category Display -->
+    <div class="category-display">
+      <span class="category-label">Category:</span>
+      <span class="category-name" id="category-name">COUNTRIES</span>
+    </div>
+
+    <!-- Game Board -->
+    <main class="game-board">
+      <!-- Clues Area -->
+      <div class="clues-container" id="clues-container">
+        <div class="clue-card active" id="clue-1">
+          <span class="clue-number">1</span>
+          <p class="clue-text" id="clue-text-1">Loading...</p>
+        </div>
+        <div class="clue-card hidden" id="clue-2">
+          <span class="clue-number">2</span>
+          <p class="clue-text" id="clue-text-2"></p>
+        </div>
+        <div class="clue-card hidden" id="clue-3">
+          <span class="clue-number">3</span>
+          <p class="clue-text" id="clue-text-3"></p>
+        </div>
+      </div>
+
+      <!-- Input Area (below clues) -->
+      <div class="input-area">
+        <div class="input-wrapper">
+          <input
+            type="text"
+            id="guess-input"
+            class="guess-input"
+            placeholder="Type your guess..."
+            autocomplete="off"
+            autocapitalize="characters"
+            spellcheck="false"
+          >
+          <button class="submit-btn" id="submit-btn">Submit</button>
+        </div>
+        <p class="error-message" id="error-message"></p>
+      </div>
+
+      <!-- Letter Boxes -->
+      <div class="letter-boxes-container" id="letter-boxes">
+        <!-- Dynamically generated -->
+      </div>
+
+      <!-- Typing Progress Dots -->
+      <div class="typing-dots-container" id="typing-dots">
+        <!-- Dynamically generated -->
+      </div>
+
+      <!-- Wrong Position Letters -->
+      <div class="wrong-position-section" id="wrong-position-section">
+        <p class="wrong-position-label">Contains:</p>
+        <div class="wrong-position-letters" id="wrong-position-letters">
+          <!-- Dynamically populated -->
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+    </footer>
+  </div>
+
+  <!-- Help Modal -->
+  <div class="modal" id="help-modal" aria-hidden="true">
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      <h2>How to Play</h2>
+      <div class="help-content">
+        <p>Guess the word using progressive clues!</p>
+
+        <h3>Rules</h3>
+        <ul>
+          <li>Start with one clue about the mystery word</li>
+          <li>Wrong guesses reveal the next clue (max 3 clues)</li>
+          <li>Correct letters from your guesses are shown in green</li>
+          <li>Letters in the word but wrong position shown below</li>
+          <li>Keep guessing until you get it right!</li>
+        </ul>
+
+        <h3>Scoring</h3>
+        <ul>
+          <li><strong>100 pts</strong> - Solved with 1 clue</li>
+          <li><strong>85 pts</strong> - Solved with 2 clues</li>
+          <li><strong>70 pts</strong> - Solved with 3 clues</li>
+          <li><strong>-5 pts</strong> - Per wrong guess</li>
+        </ul>
+        <p><em>Minimum score: 10 points</em></p>
+
+        <h3>Game Modes</h3>
+        <ul>
+          <li><strong>Daily</strong> - Same puzzle for everyone, build your streak!</li>
+          <li><strong>Quick Play</strong> - Unlimited random puzzles</li>
+        </ul>
+      </div>
+      <p class="version-info" id="version-display"></p>
+    </div>
+  </div>
+
+  <!-- Stats Modal -->
+  <div class="modal" id="stats-modal" aria-hidden="true">
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      <h2>Statistics</h2>
+      <div class="stats-grid">
+        <div class="stat-box">
+          <span class="stat-number" id="stat-played">0</span>
+          <span class="stat-label">Played</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-number" id="stat-won">0</span>
+          <span class="stat-label">Won</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-number" id="stat-streak">0</span>
+          <span class="stat-label">Streak</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-number" id="stat-max-streak">0</span>
+          <span class="stat-label">Max Streak</span>
+        </div>
+      </div>
+      <div class="stats-detail">
+        <h3>Clue Distribution</h3>
+        <div class="distribution-chart" id="clue-distribution">
+          <div class="distribution-row">
+            <span class="dist-label">1 clue</span>
+            <div class="dist-bar-container"><div class="dist-bar" data-clues="1"></div></div>
+            <span class="dist-count" id="dist-1">0</span>
+          </div>
+          <div class="distribution-row">
+            <span class="dist-label">2 clues</span>
+            <div class="dist-bar-container"><div class="dist-bar" data-clues="2"></div></div>
+            <span class="dist-count" id="dist-2">0</span>
+          </div>
+          <div class="distribution-row">
+            <span class="dist-label">3 clues</span>
+            <div class="dist-bar-container"><div class="dist-bar" data-clues="3"></div></div>
+            <span class="dist-count" id="dist-3">0</span>
+          </div>
+        </div>
+        <div class="average-score">
+          <span>Average Score:</span>
+          <strong id="stat-avg-score">0</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Modal -->
+  <div class="modal" id="results-modal" aria-hidden="true">
+    <div class="modal-overlay"></div>
+    <div class="modal-content results-content">
+      <h2 id="results-title">Congratulations!</h2>
+      <div class="results-summary">
+        <div class="results-word">
+          <span class="results-label">The word was</span>
+          <span class="results-answer" id="results-answer">INDIA</span>
+        </div>
+        <div class="results-stats">
+          <div class="result-stat">
+            <span class="result-icon">📍</span>
+            <span id="results-clues">2/3 clues</span>
+          </div>
+          <div class="result-stat">
+            <span class="result-icon">🎯</span>
+            <span id="results-tries">3 tries</span>
+          </div>
+          <div class="result-stat">
+            <span class="result-icon">⭐</span>
+            <span id="results-score">85 points</span>
+          </div>
+          <div class="result-stat">
+            <span class="result-icon">🔥</span>
+            <span id="results-streak">5 day streak</span>
+          </div>
+        </div>
+        <div class="results-factoid" id="results-factoid">
+          <p>India has 22 officially recognized languages.</p>
+        </div>
+      </div>
+      <div class="results-actions">
+        <button class="btn btn-primary" id="share-btn">Share Results</button>
+        <button class="btn btn-secondary" id="quickplay-btn">Quick Play</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Category Selector Modal (for Quick Play) -->
+  <div class="modal" id="category-modal" aria-hidden="true">
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      <h2>Choose a Category</h2>
+      <div class="category-grid" id="category-grid">
+        <button class="category-option" data-category="random">
+          <span class="category-emoji">🎲</span>
+          <span class="category-text">Random</span>
+        </button>
+        <button class="category-option" data-category="Countries">
+          <span class="category-emoji">🌍</span>
+          <span class="category-text">Countries</span>
+        </button>
+        <button class="category-option" data-category="Cities">
+          <span class="category-emoji">🏙️</span>
+          <span class="category-text">Cities</span>
+        </button>
+        <button class="category-option" data-category="Animals">
+          <span class="category-emoji">🦁</span>
+          <span class="category-text">Animals</span>
+        </button>
+        <button class="category-option" data-category="Movies">
+          <span class="category-emoji">🎬</span>
+          <span class="category-text">Movies</span>
+        </button>
+        <button class="category-option" data-category="Famous People">
+          <span class="category-emoji">👤</span>
+          <span class="category-text">Famous People</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts (load order matters) -->
+  <script src="js/utils.js?v=1.3"></script>
+  <script src="js/storage-manager.js?v=1.3"></script>
+  <script src="js/game-state.js?v=1.3"></script>
+  <script src="js/ui-controller.js?v=1.3"></script>
+  <script src="js/app.js?v=1.3"></script>
+</body>
+</html>

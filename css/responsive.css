@@ -1,0 +1,216 @@
+/* CluesWord - Responsive Styles */
+
+/* Tablet */
+@media (max-width: 768px) {
+  :root {
+    --spacing-lg: 1.25rem;
+    --spacing-xl: 1.5rem;
+  }
+
+  .app-container {
+    padding: var(--spacing-sm);
+  }
+
+  .game-title {
+    font-size: 1.375rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .letter-box {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 1.25rem;
+  }
+
+  .letter-box.size-medium {
+    width: 2.1rem;
+    height: 2.1rem;
+    font-size: 1rem;
+  }
+
+  .letter-box.size-small {
+    width: 1.8rem;
+    height: 1.8rem;
+    font-size: 0.875rem;
+  }
+
+  .clue-card {
+    padding: var(--spacing-sm);
+  }
+
+  .clue-text {
+    font-size: 0.875rem;
+  }
+
+  .modal-content {
+    padding: var(--spacing-lg);
+    width: 95%;
+  }
+
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-md);
+  }
+
+  .stat-box {
+    padding: var(--spacing-md);
+    background: var(--bg-secondary);
+    border-radius: var(--border-radius);
+  }
+
+  .results-stats {
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
+  }
+
+  .result-stat {
+    flex: 1 0 30%;
+  }
+
+  .category-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .category-option {
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: var(--spacing-md);
+  }
+
+  .submit-btn {
+    padding: var(--spacing-md);
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 375px) {
+  .letter-box {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1rem;
+    border-width: 1px;
+  }
+
+  .letter-box.size-medium {
+    width: 1.75rem;
+    height: 1.75rem;
+  }
+
+  .letter-box.size-small {
+    width: 1.5rem;
+    height: 1.5rem;
+    font-size: 0.75rem;
+  }
+
+  .letter-boxes-container {
+    gap: 4px;
+  }
+
+  .game-title {
+    font-size: 1.25rem;
+  }
+
+  .mode-btn {
+    padding: var(--spacing-xs) var(--spacing-md);
+    font-size: 0.8125rem;
+  }
+
+  .wrong-letter {
+    width: 1.75rem;
+    height: 1.75rem;
+    font-size: 0.75rem;
+  }
+}
+
+/* Landscape mobile */
+@media (max-height: 600px) and (orientation: landscape) {
+  .app-container {
+    padding: var(--spacing-xs) var(--spacing-md);
+  }
+
+  .header {
+    padding: var(--spacing-xs) 0;
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .game-title {
+    font-size: 1.25rem;
+  }
+
+  .mode-selector {
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .category-display {
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .game-board {
+    gap: var(--spacing-sm);
+  }
+
+  .clue-card {
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+
+  .letter-boxes-container {
+    padding: var(--spacing-xs) 0;
+  }
+
+  .input-area {
+    padding-top: var(--spacing-sm);
+  }
+
+  .footer {
+    padding: var(--spacing-xs) 0;
+    margin-top: var(--spacing-sm);
+  }
+}
+
+/* High DPI displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .letter-box {
+    border-width: 1.5px;
+  }
+
+  .clue-card {
+    border-width: 0.5px;
+  }
+}
+
+/* Prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Dark mode (future consideration) */
+@media (prefers-color-scheme: dark) {
+  /* TODO: Add dark mode variables when ready */
+}
+
+/* Print styles (hide game controls) */
+@media print {
+  .input-area,
+  .mode-selector,
+  .header-left,
+  .header-right,
+  .footer {
+    display: none;
+  }
+
+  .app-container {
+    max-width: 100%;
+  }
+
+  .modal {
+    display: none !important;
+  }
+}

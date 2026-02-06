@@ -1,0 +1,101 @@
+[
+  {
+    "id": "qp-people-001",
+    "category": "Famous People",
+    "word": "MOZART",
+    "clues": [
+      "This prodigy composed music from age five",
+      "Created over 600 works in his short lifetime",
+      "Famous Austrian composer of the Classical era"
+    ],
+    "factoid": "Mozart could play and compose music before he could read or write."
+  },
+  {
+    "id": "qp-people-002",
+    "category": "Famous People",
+    "word": "DARWIN",
+    "clues": [
+      "This naturalist traveled aboard HMS Beagle",
+      "Studied finches on the Galápagos Islands",
+      "Proposed the theory of evolution by natural selection"
+    ],
+    "factoid": "Darwin waited 20 years to publish his theory of evolution."
+  },
+  {
+    "id": "qp-people-003",
+    "category": "Famous People",
+    "word": "GANDHI",
+    "clues": [
+      "This leader advocated for nonviolent resistance",
+      "Led India's independence movement",
+      "Known as the Mahatma, meaning 'great soul'"
+    ],
+    "factoid": "Gandhi walked an estimated 18 kilometers daily."
+  },
+  {
+    "id": "qp-people-004",
+    "category": "Famous People",
+    "word": "TESLA",
+    "clues": [
+      "This inventor contributed to AC electrical systems",
+      "Had a famous rivalry with Thomas Edison",
+      "The SI unit of magnetic flux density is named after him"
+    ],
+    "factoid": "Tesla spoke eight languages and had a photographic memory."
+  },
+  {
+    "id": "qp-people-005",
+    "category": "Famous People",
+    "word": "NEWTON",
+    "clues": [
+      "An apple supposedly inspired this scientist's famous theory",
+      "Invented calculus and the laws of motion",
+      "English physicist and mathematician from the 1600s"
+    ],
+    "factoid": "Newton was a warden of the Royal Mint and cracked down on counterfeiters."
+  },
+  {
+    "id": "qp-people-006",
+    "category": "Famous People",
+    "word": "BILLIE EILISH",
+    "clues": [
+      "This singer recorded her debut album in her brother's bedroom",
+      "Known for her whispery vocal style and baggy fashion",
+      "Won five Grammys at age 18 including Record of the Year"
+    ],
+    "factoid": "Billie Eilish is the youngest artist to win all four major Grammy categories in one night."
+  },
+  {
+    "id": "qp-people-007",
+    "category": "Famous People",
+    "word": "JON STEWART",
+    "clues": [
+      "This comedian turned a comedy news show into must-watch political TV",
+      "Hosted Comedy Central's flagship show for 16 years",
+      "Known for his passionate advocacy for 9/11 first responders"
+    ],
+    "factoid": "Jon Stewart's real last name is Leibowitz; he changed it early in his comedy career."
+  },
+  {
+    "id": "qp-people-008",
+    "category": "Famous People",
+    "word": "MARC MARON",
+    "clues": [
+      "This comedian launched one of the first hit interview podcasts from his garage",
+      "His show 'WTF' has featured everyone from comedians to a sitting president",
+      "Known for his raw, confessional style of comedy"
+    ],
+    "factoid": "President Obama visited Marc Maron's garage in 2015 for a WTF podcast interview."
+  },
+  {
+    "id": "qp-people-009",
+    "category": "Famous People",
+    "word": "CATHERINE O HARA",
+    "clues": [
+      "This Canadian actress is a comedy legend from SCTV",
+      "Played the eccentric mother in a beloved sitcom about a rich family losing everything",
+      "She played Kevin's mom in the Home Alone movies"
+    ],
+    "factoid": "Catherine O'Hara improvised much of her dialogue as Moira Rose on Schitt's Creek."
+  }
+]

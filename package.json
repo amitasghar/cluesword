@@ -1,0 +1,23 @@
+{
+  "name": "cluesword",
+  "version": "1.0.0",
+  "description": "A category-based word guessing game with progressive clues",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate-puzzles": "node scripts/validate-puzzles.cjs",
+    "add-puzzles": "node scripts/add-puzzles.cjs"
+  },
+  "keywords": [
+    "word-game",
+    "puzzle",
+    "trivia"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

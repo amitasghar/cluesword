@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "qp-countries-001",
+    "category": "Countries",
+    "word": "JAPAN",
+    "clues": [
+      "This island nation is known for its ancient temples",
+      "Home to Mount Fuji and bullet trains",
+      "The Land of the Rising Sun"
+    ],
+    "factoid": "Japan has over 6,800 islands, but only about 430 are inhabited."
+  },
+  {
+    "id": "qp-countries-002",
+    "category": "Countries",
+    "word": "EGYPT",
+    "clues": [
+      "This ancient civilization built monuments that still stand today",
+      "The Nile River flows through this country",
+      "Home to the Great Pyramids and the Sphinx"
+    ],
+    "factoid": "The Great Pyramid of Giza was the tallest structure for 3,800 years."
+  },
+  {
+    "id": "qp-countries-003",
+    "category": "Countries",
+    "word": "CANADA",
+    "clues": [
+      "This country has the longest coastline in the world",
+      "Maple syrup is one of its most famous exports",
+      "It shares the longest border with the United States"
+    ],
+    "factoid": "Canada has more lakes than the rest of the world combined."
+  },
+  {
+    "id": "qp-countries-004",
+    "category": "Countries",
+    "word": "MEXICO",
+    "clues": [
+      "This country is famous for ancient Mayan and Aztec ruins",
+      "Shares its northern border with the United States",
+      "Known for tacos, tequila, and Day of the Dead"
+    ],
+    "factoid": "Mexico City was built on the ruins of the Aztec capital Tenochtitlan."
+  },
+  {
+    "id": "qp-countries-005",
+    "category": "Countries",
+    "word": "FRANCE",
+    "clues": [
+      "This European nation is known for wine and cheese",
+      "Home to the world's most visited museum",
+      "Hosted the 1998 FIFA World Cup and won it"
+    ],
+    "factoid": "France is the most visited country in the world."
+  },
+  {
+    "id": "qp-countries-006",
+    "category": "Countries",
+    "word": "AUSTRALIA",
+    "clues": [
+      "This country is also a continent",
+      "Home to kangaroos and koalas",
+      "The Great Barrier Reef is located here"
+    ],
+    "factoid": "Australia has over 10,000 beaches — you could visit a new one every day for 27 years."
+  },
+  {
+    "id": "qp-countries-007",
+    "category": "Countries",
+    "word": "GERMANY",
+    "clues": [
+      "This European powerhouse is known for its engineering",
+      "Home to Oktoberfest and the Brandenburg Gate",
+      "Reunified in 1990 after the fall of a famous wall"
+    ],
+    "factoid": "Germany has over 1,500 different types of beer."
+  },
+  {
+    "id": "qp-countries-008",
+    "category": "Countries",
+    "word": "ITALY",
+    "clues": [
+      "This boot-shaped country is famous for its cuisine",
+      "Home to the Renaissance and the Roman Empire",
+      "Venice, Florence, and Milan are all here"
+    ],
+    "factoid": "Italy has more UNESCO World Heritage Sites than any other country."
+  },
+  {
+    "id": "qp-countries-009",
+    "category": "Countries",
+    "word": "CHINA",
+    "clues": [
+      "This country has the world's largest population",
+      "Built a wall visible from space to keep out invaders",
+      "Home to the Terracotta Army and the Forbidden City"
+    ],
+    "factoid": "China's railway network could loop around the Earth twice."
+  },
+  {
+    "id": "qp-countries-010",
+    "category": "Countries",
+    "word": "SPAIN",
+    "clues": [
+      "This European country is famous for flamenco dancing",
+      "Home to La Sagrada Familia and the Running of the Bulls",
+      "Its language is spoken by over 500 million people worldwide"
+    ],
+    "factoid": "Spain's national anthem has no official lyrics."
+  },
+  {
+    "id": "qp-countries-011",
+    "category": "Countries",
+    "word": "GREECE",
+    "clues": [
+      "This country is considered the birthplace of democracy",
+      "Home to the Acropolis and the ancient Olympic Games",
+      "Has over 6,000 islands in the Mediterranean"
+    ],
+    "factoid": "Greece has more archaeological museums than any other country."
+  },
+  {
+    "id": "qp-countries-012",
+    "category": "Countries",
+    "word": "KENYA",
+    "clues": [
+      "This East African country is famous for its wildlife safaris",
+      "Home to the Great Rift Valley and Mount Kenya",
+      "Known for producing world-class marathon runners"
+    ],
+    "factoid": "Kenya's Maasai Mara hosts the world's largest annual wildlife migration."
+  },
+  {
+    "id": "qp-countries-013",
+    "category": "Countries",
+    "word": "PERU",
+    "clues": [
+      "This South American country was home to the Inca Empire",
+      "Machu Picchu sits high in its mountains",
+      "Its capital Lima is known as the gastronomic capital of the Americas"
+    ],
+    "factoid": "Peru has 90 different microclimates, making it one of the most diverse countries on Earth."
+  },
+  {
+    "id": "qp-countries-014",
+    "category": "Countries",
+    "word": "THAILAND",
+    "clues": [
+      "This Southeast Asian kingdom was never colonized by Europeans",
+      "Known for ornate temples and spicy street food",
+      "Its capital was recently renamed but is still called Bangkok"
+    ],
+    "factoid": "Bangkok's full ceremonial name is 168 characters long, the longest city name in the world."
+  },
+  {
+    "id": "qp-countries-015",
+    "category": "Countries",
+    "word": "NORWAY",
+    "clues": [
+      "This Scandinavian country is known for fjords and the Northern Lights",
+      "Home to the Vikings and the Nobel Peace Prize",
+      "Has one of the highest standards of living in the world"
+    ],
+    "factoid": "Norway knighted a penguin named Nils Olav."
+  },
+  {
+    "id": "qp-countries-016",
+    "category": "Countries",
+    "word": "TURKEY",
+    "clues": [
+      "This country straddles two continents",
+      "Home to the ancient city of Troy and Hagia Sophia",
+      "Istanbul was once called Constantinople"
+    ],
+    "factoid": "Turkey introduced coffee to Europe in the 16th century."
+  },
+  {
+    "id": "qp-countries-017",
+    "category": "Countries",
+    "word": "ICELAND",
+    "clues": [
+      "This island nation sits on the Mid-Atlantic Ridge",
+      "Has more volcanoes, geysers, and hot springs than almost anywhere",
+      "Despite its name, it's actually greener than its neighbor"
+    ],
+    "factoid": "Iceland has no army, navy, or air force."
+  },
+  {
+    "id": "qp-countries-018",
+    "category": "Countries",
+    "word": "ARGENTINA",
+    "clues": [
+      "This South American country is famous for tango and steak",
+      "Home to Patagonia and Iguazu Falls",
+      "Won the FIFA World Cup in 2022"
+    ],
+    "factoid": "Argentina has the widest avenue in the world — Avenida 9 de Julio is 140 meters across."
+  },
+  {
+    "id": "qp-countries-019",
+    "category": "Countries",
+    "word": "PORTUGAL",
+    "clues": [
+      "This small European country launched the Age of Exploration",
+      "Famous for port wine and pastel de nata custard tarts",
+      "Shares the Iberian Peninsula with its larger neighbor"
+    ],
+    "factoid": "Portugal is the oldest country in Europe with the same borders since 1139."
+  },
+  {
+    "id": "qp-countries-020",
+    "category": "Countries",
+    "word": "MOROCCO",
+    "clues": [
+      "This North African kingdom is a gateway between Europe and Africa",
+      "Famous for its colorful souks and riads",
+      "Marrakech and Casablanca are its most well-known cities"
+    ],
+    "factoid": "Morocco is the world's largest exporter of sardines."
+  },
+  {
+    "id": "qp-countries-021",
+    "category": "Countries",
+    "word": "VIETNAM",
+    "clues": [
+      "This Southeast Asian country is shaped like the letter S",
+      "Famous for pho, banh mi, and Ha Long Bay",
+      "Its capital Hanoi is over 1,000 years old"
+    ],
+    "factoid": "Vietnam is the world's second-largest coffee exporter after Brazil."
+  },
+  {
+    "id": "qp-countries-022",
+    "category": "Countries",
+    "word": "CUBA",
+    "clues": [
+      "This Caribbean island is famous for vintage cars and cigars",
+      "Located just 90 miles south of Florida",
+      "Havana is its colorful, music-filled capital"
+    ],
+    "factoid": "Cuba has one of the highest literacy rates in the world at 99.8%."
+  },
+  {
+    "id": "qp-countries-023",
+    "category": "Countries",
+    "word": "IRELAND",
+    "clues": [
+      "This island nation is known as the Emerald Isle",
+      "Famous for its literary traditions and lively pub culture",
+      "St. Patrick's Day celebrates its patron saint worldwide"
+    ],
+    "factoid": "There are no snakes in Ireland — and never have been since the last Ice Age."
+  },
+  {
+    "id": "qp-countries-024",
+    "category": "Countries",
+    "word": "NEPAL",
+    "clues": [
+      "This small country is sandwiched between two giants",
+      "Home to eight of the world's ten tallest mountains",
+      "Mount Everest sits on its northern border"
+    ],
+    "factoid": "Nepal's flag is the only national flag that isn't rectangular."
+  },
+  {
+    "id": "qp-countries-025",
+    "category": "Countries",
+    "word": "SWEDEN",
+    "clues": [
+      "This Scandinavian country is known for IKEA and ABBA",
+      "Home to the Nobel Prize ceremonies in Stockholm",
+      "Has a famous ice hotel that is rebuilt every winter"
+    ],
+    "factoid": "Sweden has more islands than any other country — over 267,000."
+  },
+  {
+    "id": "qp-countries-026",
+    "category": "Countries",
+    "word": "RUSSIA",
+    "clues": [
+      "Spans two continents",
+      "Home to the Trans-Siberian Railway",
+      "Its largest city sits on the Moskva River"
+    ],
+    "factoid": "Russia spans 11 time zones, more than any other country on Earth."
+  },
+  {
+    "id": "qp-countries-027",
+    "category": "Countries",
+    "word": "COLOMBIA",
+    "clues": [
+      "South American nation known for coffee",
+      "Home to the legendary El Dorado myth",
+      "Cartagena is one of its most famous coastal cities"
+    ],
+    "factoid": "Colombia is the world's leading producer of emeralds, supplying about 70% of the global market."
+  },
+  {
+    "id": "qp-countries-028",
+    "category": "Countries",
+    "word": "SWITZERLAND",
+    "clues": [
+      "Famous for neutrality and banking",
+      "A landlocked Alpine nation",
+      "Home to CERN and the Red Cross headquarters"
+    ],
+    "factoid": "Switzerland has not been in a state of war internationally since 1815."
+  },
+  {
+    "id": "qp-countries-029",
+    "category": "Countries",
+    "word": "NIGERIA",
+    "clues": [
+      "Most populous country in Africa",
+      "Major oil-producing nation",
+      "Nollywood is its massive film industry"
+    ],
+    "factoid": "Nigeria's film industry, Nollywood, is the second largest in the world by volume, producing over 2,500 films per year."
+  },
+  {
+    "id": "qp-countries-030",
+    "category": "Countries",
+    "word": "CHILE",
+    "clues": [
+      "Long, narrow South American country",
+      "The Atacama Desert lies within its borders",
+      "Easter Island belongs to this nation"
+    ],
+    "factoid": "Chile stretches over 4,300 km from north to south but averages only 177 km wide."
+  },
+  {
+    "id": "qp-countries-031",
+    "category": "Countries",
+    "word": "POLAND",
+    "clues": [
+      "Central European nation with a Baltic coastline",
+      "Birthplace of Copernicus and Chopin",
+      "Krakow is one of its oldest and most visited cities"
+    ],
+    "factoid": "Poland's Wieliczka Salt Mine has been in operation since the 13th century and contains underground chapels carved entirely from salt."
+  },
+  {
+    "id": "qp-countries-032",
+    "category": "Countries",
+    "word": "SOUTH KOREA",
+    "clues": [
+      "East Asian peninsula nation",
+      "Global leader in electronics and K-pop",
+      "The DMZ separates it from its northern neighbor"
+    ],
+    "factoid": "South Korea has the fastest average internet speed in the world."
+  },
+  {
+    "id": "qp-countries-033",
+    "category": "Countries",
+    "word": "INDONESIA",
+    "clues": [
+      "Largest archipelago nation in the world",
+      "Home to Komodo dragons",
+      "Bali is one of its most famous islands"
+    ],
+    "factoid": "Indonesia consists of over 17,000 islands, making it the largest island country on Earth."
+  },
+  {
+    "id": "qp-countries-034",
+    "category": "Countries",
+    "word": "NETHERLANDS",
+    "clues": [
+      "Famous for windmills and tulips",
+      "Much of its land lies below sea level",
+      "Amsterdam is known for its canal ring system"
+    ],
+    "factoid": "About one-third of the Netherlands lies below sea level, protected by an elaborate system of dikes and pumps."
+  },
+  {
+    "id": "qp-countries-035",
+    "category": "Countries",
+    "word": "SOUTH AFRICA",
+    "clues": [
+      "Nation at the southern tip of a continent",
+      "Has three capital cities",
+      "Table Mountain overlooks one of its major cities"
+    ],
+    "factoid": "South Africa has 11 official languages, the most of any country in the world."
+  },
+  {
+    "id": "qp-countries-036",
+    "category": "Countries",
+    "word": "NEW ZEALAND",
+    "clues": [
+      "Pacific island nation known for extreme sports",
+      "Home to more sheep than people",
+      "The filming location of a famous fantasy trilogy"
+    ],
+    "factoid": "New Zealand was the first country to grant all women the right to vote in national elections, in 1893."
+  },
+  {
+    "id": "qp-countries-037",
+    "category": "Countries",
+    "word": "FINLAND",
+    "clues": [
+      "Nordic country known as the land of a thousand lakes",
+      "Consistently ranked among the happiest nations",
+      "Home to the original sauna culture"
+    ],
+    "factoid": "Finland has approximately 3.3 million saunas for a population of about 5.5 million people."
+  },
+  {
+    "id": "qp-countries-038",
+    "category": "Countries",
+    "word": "PHILIPPINES",
+    "clues": [
+      "Southeast Asian archipelago of over 7,000 islands",
+      "Named after a 16th-century European king",
+      "Jeepneys are a famous mode of transport here"
+    ],
+    "factoid": "The Philippines is home to the world's smallest primate, the tarsier, which can fit in the palm of your hand."
+  },
+  {
+    "id": "qp-countries-039",
+    "category": "Countries",
+    "word": "AUSTRIA",
+    "clues": [
+      "Landlocked European country famous for classical music",
+      "The Alps dominate its landscape",
+      "Birthplace of Mozart in Salzburg"
+    ],
+    "factoid": "The world's oldest zoo, Tiergarten Schonbrunn, was founded in Vienna in 1752."
+  },
+  {
+    "id": "qp-countries-040",
+    "category": "Countries",
+    "word": "DENMARK",
+    "clues": [
+      "Scandinavian kingdom with a famous mermaid statue",
+      "Pioneer of wind energy in Europe",
+      "Lego was invented here"
+    ],
+    "factoid": "Denmark's flag, the Dannebrog, is considered the oldest continuously used national flag in the world, dating to 1219."
+  },
+  {
+    "id": "qp-countries-041",
+    "category": "Countries",
+    "word": "ETHIOPIA",
+    "clues": [
+      "Ancient African nation that was never colonized",
+      "Believed to be the birthplace of coffee",
+      "Uses a calendar that is roughly seven years behind the Gregorian calendar"
+    ],
+    "factoid": "Ethiopia follows its own calendar with 13 months, and its New Year falls on September 11 or 12."
+  },
+  {
+    "id": "qp-countries-042",
+    "category": "Countries",
+    "word": "UKRAINE",
+    "clues": [
+      "Largest country entirely within Europe",
+      "Known as the breadbasket of its continent",
+      "Chernobyl is located within its borders"
+    ],
+    "factoid": "Ukraine's national airline operated the Antonov An-225, the largest cargo aircraft ever built."
+  },
+  {
+    "id": "qp-countries-043",
+    "category": "Countries",
+    "word": "MALAYSIA",
+    "clues": [
+      "Southeast Asian nation split across a sea",
+      "Home to the Petronas Twin Towers",
+      "Borneo's rainforests cover part of this country"
+    ],
+    "factoid": "Malaysia's Petronas Twin Towers held the record for world's tallest buildings from 1998 to 2004."
+  },
+  {
+    "id": "qp-countries-044",
+    "category": "Countries",
+    "word": "PAKISTAN",
+    "clues": [
+      "South Asian nation with the world's second-highest mountain",
+      "Home to the ancient Indus Valley civilization",
+      "The Karakoram Highway connects it to its northern neighbor"
+    ],
+    "factoid": "Pakistan's K2 is the second tallest mountain in the world and is considered more difficult to climb than Everest."
+  },
+  {
+    "id": "qp-countries-045",
+    "category": "Countries",
+    "word": "BELGIUM",
+    "clues": [
+      "Small European nation famous for chocolate and waffles",
+      "Headquarters of the European Union",
+      "Has three official languages within its borders"
+    ],
+    "factoid": "Belgium produces over 220,000 tonnes of chocolate per year and Brussels Airport is the world's biggest chocolate selling point."
+  },
+  {
+    "id": "qp-countries-046",
+    "category": "Countries",
+    "word": "CZECH REPUBLIC",
+    "clues": [
+      "Central European nation with a fairy-tale capital",
+      "One of the world's highest per-capita beer consumers",
+      "Prague Castle dominates its capital's skyline"
+    ],
+    "factoid": "The Czech Republic has the highest beer consumption per capita in the world, averaging about 140 liters per person per year."
+  },
+  {
+    "id": "qp-countries-047",
+    "category": "Countries",
+    "word": "ROMANIA",
+    "clues": [
+      "Eastern European country with Carpathian Mountains",
+      "Home to the legend of a famous vampire",
+      "Bran Castle attracts tourists from around the world"
+    ],
+    "factoid": "Romania is home to Europe's largest population of brown bears, with an estimated 6,000 living in the Carpathians."
+  },
+  {
+    "id": "qp-countries-048",
+    "category": "Countries",
+    "word": "COSTA RICA",
+    "clues": [
+      "Central American nation with no standing army",
+      "Famous for biodiversity and ecotourism",
+      "Its name means 'Rich Coast' in Spanish"
+    ],
+    "factoid": "Costa Rica generates over 98% of its electricity from renewable sources, primarily hydropower."
+  },
+  {
+    "id": "qp-countries-050",
+    "category": "Countries",
+    "word": "CROATIA",
+    "clues": [
+      "Adriatic coastal country popular with tourists",
+      "Has over a thousand islands along its coast",
+      "Dubrovnik served as a filming location for a famous fantasy TV series"
+    ],
+    "factoid": "The necktie originated in Croatia; the word 'cravat' comes from the French word for 'Croat.'"
+  },
+  {
+    "id": "qp-countries-051",
+    "category": "Countries",
+    "word": "JORDAN",
+    "clues": [
+      "Middle Eastern kingdom with ancient ruins",
+      "Borders the Dead Sea",
+      "Petra, a city carved into rose-red cliffs, is its greatest treasure"
+    ],
+    "factoid": "The Dead Sea, on Jordan's western border, is the lowest point on Earth's surface at about 430 meters below sea level."
+  },
+  {
+    "id": "qp-countries-052",
+    "category": "Countries",
+    "word": "ECUADOR",
+    "clues": [
+      "South American country named after an imaginary line",
+      "The Galapagos Islands belong to this nation",
+      "Its capital is one of the highest in the world"
+    ],
+    "factoid": "Ecuador was the first country to grant constitutional rights to nature in 2008."
+  },
+  {
+    "id": "qp-countries-053",
+    "category": "Countries",
+    "word": "SCOTLAND",
+    "clues": [
+      "Northern part of a larger island nation",
+      "Known for kilts, bagpipes, and whisky",
+      "Loch Ness is one of its most famous landmarks"
+    ],
+    "factoid": "Scotland's national animal is the unicorn, which has been a symbol of the country since the 12th century."
+  },
+  {
+    "id": "qp-countries-054",
+    "category": "Countries",
+    "word": "TANZANIA",
+    "clues": [
+      "East African nation home to the continent's tallest peak",
+      "The Serengeti migration happens here",
+      "Zanzibar is a famous island off its coast"
+    ],
+    "factoid": "Mount Kilimanjaro in Tanzania is the tallest freestanding mountain in the world at 5,895 meters."
+  },
+  {
+    "id": "qp-countries-055",
+    "category": "Countries",
+    "word": "MONGOLIA",
+    "clues": [
+      "Vast landlocked Asian nation with nomadic traditions",
+      "One of the least densely populated countries on Earth",
+      "Genghis Khan built an empire from here"
+    ],
+    "factoid": "Mongolia has the lowest population density of any sovereign nation, with fewer than 2 people per square kilometer."
+  },
+  {
+    "id": "qp-countries-056",
+    "category": "Countries",
+    "word": "HUNGARY",
+    "clues": [
+      "Central European country known for thermal baths",
+      "The Danube River flows through its capital",
+      "Goulash is its most famous dish"
+    ],
+    "factoid": "Budapest has the largest thermal water cave system in the world, and the city sits atop over 120 natural hot springs."
+  },
+  {
+    "id": "qp-countries-057",
+    "category": "Countries",
+    "word": "JAMAICA",
+    "clues": [
+      "Caribbean island nation known for reggae music",
+      "Home to the world's fastest sprinters",
+      "Blue Mountain coffee is prized worldwide"
+    ],
+    "factoid": "Jamaica was the first Caribbean country to gain independence, in 1962, and its bobsled team famously competed in the 1988 Winter Olympics."
+  },
+  {
+    "id": "qp-countries-058",
+    "category": "Countries",
+    "word": "IRAN",
+    "clues": [
+      "Middle Eastern nation once known as Persia",
+      "Home to one of the world's oldest civilizations",
+      "Isfahan's mosques are renowned for their blue tilework"
+    ],
+    "factoid": "Iran has the world's largest collection of Persian carpets and rug-weaving has been practiced there for over 2,500 years."
+  },
+  {
+    "id": "qp-countries-059",
+    "category": "Countries",
+    "word": "GHANA",
+    "clues": [
+      "West African nation and major cocoa producer",
+      "First sub-Saharan African country to gain independence",
+      "Cape Coast Castle tells a somber history"
+    ],
+    "factoid": "Ghana produces about 20% of the world's cocoa supply, making it the second-largest cocoa producer globally."
+  },
+  {
+    "id": "qp-countries-060",
+    "category": "Countries",
+    "word": "CAMBODIA",
+    "clues": [
+      "Southeast Asian kingdom with ancient temple ruins",
+      "The Mekong River flows through it",
+      "Angkor Wat is the world's largest religious monument"
+    ],
+    "factoid": "Cambodia's flag is one of only two national flags in the world that features a building, with Angkor Wat at its center."
+  },
+  {
+    "id": "qp-countries-061",
+    "category": "Countries",
+    "word": "BHUTAN",
+    "clues": [
+      "Tiny Himalayan kingdom that measures happiness",
+      "Carbon-negative country covered in forests",
+      "The Tiger's Nest monastery clings to its cliffs"
+    ],
+    "factoid": "Bhutan is the only carbon-negative country in the world, absorbing more CO2 than it produces."
+  },
+  {
+    "id": "qp-countries-062",
+    "category": "Countries",
+    "word": "MADAGASCAR",
+    "clues": [
+      "Large island nation off Africa's southeast coast",
+      "Most of its wildlife exists nowhere else on Earth",
+      "Baobab trees line its famous avenue"
+    ],
+    "factoid": "About 90% of Madagascar's wildlife is found nowhere else on the planet, including over 100 species of lemurs."
+  },
+  {
+    "id": "qp-countries-063",
+    "category": "Countries",
+    "word": "BOLIVIA",
+    "clues": [
+      "Landlocked South American nation with high-altitude cities",
+      "Has the world's largest salt flat",
+      "La Paz is one of the highest capital cities in the world"
+    ],
+    "factoid": "Bolivia's Salar de Uyuni is the world's largest salt flat, spanning over 10,000 square kilometers and containing the world's largest lithium reserve."
+  },
+  {
+    "id": "qp-countries-064",
+    "category": "Countries",
+    "word": "FIJI",
+    "clues": [
+      "Pacific island nation popular for honeymoons",
+      "Consists of over 330 islands",
+      "Rugby sevens is practically a national religion here"
+    ],
+    "factoid": "Fiji was the first country to welcome the new millennium because of its position near the International Date Line."
+  },
+  {
+    "id": "qp-countries-065",
+    "category": "Countries",
+    "word": "PANAMA",
+    "clues": [
+      "Central American country connecting two continents",
+      "Famous for a man-made waterway",
+      "Its canal handles about 5% of world trade"
+    ],
+    "factoid": "The sun rises over the Pacific and sets over the Atlantic in Panama due to the country's S-shaped isthmus."
+  },
+  {
+    "id": "qp-countries-066",
+    "category": "Countries",
+    "word": "LAOS",
+    "clues": [
+      "Landlocked Southeast Asian nation",
+      "Known as the Land of a Million Elephants",
+      "The Plain of Jars contains mysterious ancient stone vessels"
+    ],
+    "factoid": "Laos is the most heavily bombed country per capita in history, with over 270 million cluster bombs dropped during the Vietnam War era."
+  },
+  {
+    "id": "qp-countries-067",
+    "category": "Countries",
+    "word": "MYANMAR",
+    "clues": [
+      "Southeast Asian nation formerly known by a different name",
+      "Thousands of ancient temples fill its central plain",
+      "Shwedagon Pagoda is covered in gold"
+    ],
+    "factoid": "Myanmar's Bagan archaeological zone contains over 2,200 surviving temples and pagodas from the 11th and 12th centuries."
+  },
+  {
+    "id": "qp-countries-068",
+    "category": "Countries",
+    "word": "LUXEMBOURG",
+    "clues": [
+      "One of the smallest countries in Europe",
+      "Has one of the highest GDP per capita in the world",
+      "Shares borders with three larger neighbors"
+    ],
+    "factoid": "Luxembourg is the only Grand Duchy remaining in the world, ruled by a Grand Duke."
+  },
+  {
+    "id": "qp-countries-069",
+    "category": "Countries",
+    "word": "URUGUAY",
+    "clues": [
+      "Small South American country between two giants",
+      "Hosted the first FIFA World Cup",
+      "Known for its progressive social policies"
+    ],
+    "factoid": "Uruguay hosted and won the first-ever FIFA World Cup in 1930."
+  },
+  {
+    "id": "qp-countries-070",
+    "category": "Countries",
+    "word": "OMAN",
+    "clues": [
+      "Arabian Peninsula nation known for frankincense",
+      "Has dramatic fjord-like coastline",
+      "Muscat is its port capital with a grand mosque"
+    ],
+    "factoid": "Oman was a major maritime empire and controlled Zanzibar and parts of the East African coast until the 1960s."
+  },
+  {
+    "id": "qp-countries-071",
+    "category": "Countries",
+    "word": "GEORGIA",
+    "clues": [
+      "Caucasus nation at the crossroads of Europe and Asia",
+      "Claims to be the birthplace of wine",
+      "Ancient cave monasteries dot its landscape"
+    ],
+    "factoid": "Archaeological evidence suggests Georgia has been making wine for over 8,000 years, making it the world's oldest wine-producing region."
+  },
+  {
+    "id": "qp-countries-072",
+    "category": "Countries",
+    "word": "MALTA",
+    "clues": [
+      "Tiny Mediterranean island nation south of Sicily",
+      "Has megalithic temples older than the pyramids",
+      "The Knights of St. John once ruled here"
+    ],
+    "factoid": "Malta's megalithic temples date back to 3600 BCE, making them older than both Stonehenge and the Egyptian pyramids."
+  },
+  {
+    "id": "qp-countries-073",
+    "category": "Countries",
+    "word": "SERBIA",
+    "clues": [
+      "Balkan nation known for vibrant nightlife",
+      "The Danube flows through its capital",
+      "Nikola Tesla was born within its historical borders"
+    ],
+    "factoid": "Belgrade is one of the oldest continuously inhabited cities in Europe, with settlements dating back over 7,000 years."
+  },
+  {
+    "id": "qp-countries-074",
+    "category": "Countries",
+    "word": "NAMIBIA",
+    "clues": [
+      "Southern African country with vast deserts",
+      "Home to the world's oldest desert",
+      "Etosha salt pan is a major wildlife destination"
+    ],
+    "factoid": "Namibia's Namib Desert is considered the oldest desert in the world, at approximately 55 million years old."
+  },
+  {
+    "id": "qp-countries-075",
+    "category": "Countries",
+    "word": "SRI LANKA",
+    "clues": [
+      "Island nation off the southern tip of a subcontinent",
+      "Once known as Ceylon",
+      "Famous for tea plantations and ancient Buddhist ruins"
+    ],
+    "factoid": "Sri Lanka is one of the world's top tea producers; its Ceylon tea industry was started after a coffee blight destroyed its coffee crops in the 1870s."
+  },
+  {
+    "id": "qp-countries-076",
+    "category": "Countries",
+    "word": "SLOVENIA",
+    "clues": [
+      "Small Alpine European nation on the Adriatic",
+      "Has a vast underground cave system",
+      "Lake Bled with its island church is a postcard icon"
+    ],
+    "factoid": "Slovenia's Postojna Cave system stretches over 24 km and is home to the olm, a blind amphibian known as the 'baby dragon.'"
+  },
+  {
+    "id": "qp-countries-077",
+    "category": "Countries",
+    "word": "BRUNEI",
+    "clues": [
+      "Tiny wealthy nation on the island of Borneo",
+      "Rich in oil and gas reserves",
+      "Its sultan lives in the world's largest residential palace"
+    ],
+    "factoid": "Brunei's Istana Nurul Iman palace has 1,788 rooms, making it the largest residential palace in the world."
+  },
+  {
+    "id": "qp-countries-078",
+    "category": "Countries",
+    "word": "PARAGUAY",
+    "clues": [
+      "Landlocked South American country",
+      "One of only two doubly landlocked countries in the Americas",
+      "The Itaipu Dam on its border is one of the world's largest"
+    ],
+    "factoid": "The Itaipu Dam on the Paraguay-Brazil border generates the most electricity of any hydroelectric dam in the world by annual output."
+  },
+  {
+    "id": "qp-countries-079",
+    "category": "Countries",
+    "word": "TONGA",
+    "clues": [
+      "Polynesian kingdom in the South Pacific",
+      "Never colonized by a European power",
+      "One of the first places in the world to see the sunrise each day"
+    ],
+    "factoid": "Tonga is the only remaining monarchy in the Pacific and was never formally colonized by any European country."
+  },
+  {
+    "id": "qp-countries-080",
+    "category": "Countries",
+    "word": "UZBEKISTAN",
+    "clues": [
+      "Central Asian country along the ancient Silk Road",
+      "Doubly landlocked, surrounded by other landlocked nations",
+      "Samarkand's Registan Square is a masterpiece of Islamic architecture"
+    ],
+    "factoid": "Uzbekistan is one of only two doubly landlocked countries in the world, meaning all its neighbors are also landlocked."
+  },
+  {
+    "id": "qp-countries-081",
+    "category": "Countries",
+    "word": "BOTSWANA",
+    "clues": [
+      "Southern African country with vast wildlife reserves",
+      "The Okavango Delta floods in the dry season",
+      "Diamonds are its most valuable export"
+    ],
+    "factoid": "Botswana transformed from one of Africa's poorest nations at independence in 1966 to an upper-middle-income country, largely through diamond revenues."
+  },
+  {
+    "id": "qp-countries-082",
+    "category": "Countries",
+    "word": "ALBANIA",
+    "clues": [
+      "Balkan nation on the Adriatic and Ionian seas",
+      "Has thousands of Cold War-era bunkers dotting its landscape",
+      "The ancient city of Butrint is a UNESCO World Heritage site"
+    ],
+    "factoid": "Albania has approximately 173,000 concrete bunkers built during the communist era, roughly one for every 11 people at the time."
+  },
+  {
+    "id": "qp-countries-083",
+    "category": "Countries",
+    "word": "SURINAME",
+    "clues": [
+      "Smallest country in South America by area",
+      "The only country in the Americas with Dutch as an official language",
+      "Over 90% of its land is covered in tropical rainforest"
+    ],
+    "factoid": "Suriname's population is one of the most ethnically diverse in the world, with significant South Asian, African, Indonesian, Chinese, and Indigenous communities."
+  },
+  {
+    "id": "qp-countries-084",
+    "category": "Countries",
+    "word": "ERITREA",
+    "clues": [
+      "East African nation on the Red Sea coast",
+      "Gained independence through a 30-year struggle",
+      "Asmara's Art Deco architecture earned it a UNESCO listing"
+    ],
+    "factoid": "Eritrea's capital Asmara has one of the best-preserved collections of early 20th-century modernist architecture in the world."
+  },
+  {
+    "id": "qp-countries-085",
+    "category": "Countries",
+    "word": "KYRGYZSTAN",
+    "clues": [
+      "Mountainous Central Asian country",
+      "Nomadic yurt culture is still alive here",
+      "Issyk-Kul is one of the largest alpine lakes in the world"
+    ],
+    "factoid": "Lake Issyk-Kul in Kyrgyzstan is the second-largest alpine lake in the world and never freezes despite being surrounded by snow-capped mountains."
+  },
+  {
+    "id": "qp-countries-086",
+    "category": "Countries",
+    "word": "LESOTHO",
+    "clues": [
+      "Small African kingdom entirely surrounded by one other country",
+      "Known as the Kingdom in the Sky",
+      "Its lowest point is higher than any other country's lowest point"
+    ],
+    "factoid": "Lesotho has the highest lowest point of any country in the world at 1,400 meters above sea level."
+  },
+  {
+    "id": "qp-countries-087",
+    "category": "Countries",
+    "word": "LIECHTENSTEIN",
+    "clues": [
+      "Tiny European country between two Alpine nations",
+      "One of the world's smallest doubly landlocked countries",
+      "Known for postage stamps and low taxes"
+    ],
+    "factoid": "Liechtenstein is so small that the entire country can be rented for $70,000 per night, complete with customized street signs and a temporary currency."
+  },
+  {
+    "id": "qp-countries-088",
+    "category": "Countries",
+    "word": "COMOROS",
+    "clues": [
+      "Small island nation in the Indian Ocean",
+      "Located between Africa and a large island",
+      "Known for producing most of the world's ylang-ylang"
+    ],
+    "factoid": "Comoros produces about 80% of the world's ylang-ylang, an essential oil used in perfumes including Chanel No. 5."
+  },
+  {
+    "id": "qp-countries-089",
+    "category": "Countries",
+    "word": "ANDORRA",
+    "clues": [
+      "Microstate nestled in the Pyrenees mountains",
+      "Has no airport, railway, or seaport",
+      "A popular European ski and duty-free shopping destination"
+    ],
+    "factoid": "Andorra has the longest life expectancy of any country, and it has not been involved in a war since 1278."
+  },
+  {
+    "id": "qp-countries-090",
+    "category": "Countries",
+    "word": "DJIBOUTI",
+    "clues": [
+      "Small East African country at a strategic strait",
+      "One of the hottest countries on Earth",
+      "Hosts military bases from multiple world powers"
+    ],
+    "factoid": "Lake Assal in Djibouti is the lowest point in Africa and the third-lowest land depression on Earth."
+  },
+  {
+    "id": "qp-countries-091",
+    "category": "Countries",
+    "word": "MALDIVES",
+    "clues": [
+      "Island nation in the Indian Ocean known for luxury resorts",
+      "The flattest country on Earth",
+      "Threatened by rising sea levels"
+    ],
+    "factoid": "The Maldives' average ground level is only 1.5 meters above sea level, making it the world's lowest-lying country."
+  },
+  {
+    "id": "qp-countries-092",
+    "category": "Countries",
+    "word": "MONTENEGRO",
+    "clues": [
+      "Small Balkan nation whose name means Black Mountain",
+      "Bay of Kotor resembles a Scandinavian fjord",
+      "One of the newest countries in Europe"
+    ],
+    "factoid": "Montenegro's Bay of Kotor is the southernmost fjord-like bay in Europe and is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "qp-countries-093",
+    "category": "Countries",
+    "word": "SENEGAL",
+    "clues": [
+      "Westernmost country on the African mainland",
+      "Known for vibrant music and wrestling traditions",
+      "The pink waters of Lake Retba attract visitors"
+    ],
+    "factoid": "Senegal's Lake Retba, also known as Lac Rose, turns vivid pink due to a unique algae, and its salt content rivals the Dead Sea."
+  },
+  {
+    "id": "qp-countries-094",
+    "category": "Countries",
+    "word": "AZERBAIJAN",
+    "clues": [
+      "Caucasus nation on the Caspian Sea",
+      "Known as the Land of Fire",
+      "Its capital hosted the first Formula 1 street race in this region"
+    ],
+    "factoid": "Azerbaijan has natural gas vents that have been burning continuously for thousands of years, earning it the nickname 'Land of Fire.'"
+  },
+  {
+    "id": "qp-countries-095",
+    "category": "Countries",
+    "word": "MOLDOVA",
+    "clues": [
+      "Small landlocked Eastern European country",
+      "One of the least-visited countries in Europe",
+      "Has the world's largest wine cellar by collection"
+    ],
+    "factoid": "Moldova's Milestii Mici wine cellar holds over 2 million bottles and stretches for 200 km of underground tunnels."
+  },
+  {
+    "id": "qp-countries-096",
+    "category": "Countries",
+    "word": "VANUATU",
+    "clues": [
+      "Pacific island nation with active volcanoes",
+      "Known for land diving, the precursor to bungee jumping",
+      "One of the most linguistically diverse countries per capita"
+    ],
+    "factoid": "Vanuatu has over 130 languages for a population of about 300,000, giving it the highest language density per capita in the world."
+  },
+  {
+    "id": "qp-countries-097",
+    "category": "Countries",
+    "word": "ESWATINI",
+    "clues": [
+      "Small southern African kingdom that recently changed its name",
+      "One of the last absolute monarchies in the world",
+      "Known for the annual Reed Dance ceremony"
+    ],
+    "factoid": "Eswatini changed its name from Swaziland in 2018 to reflect its people's name for themselves and distinguish it from Switzerland."
+  },
+  {
+    "id": "qp-countries-098",
+    "category": "Countries",
+    "word": "SAO TOME AND PRINCIPE",
+    "clues": [
+      "Tiny island nation in the Gulf of Guinea",
+      "Africa's smallest country by area",
+      "Was once the world's largest producer of cocoa"
+    ],
+    "factoid": "Sao Tome and Principe sits almost exactly on the Equator and the Prime Meridian, placing it near the geographic center of the world."
+  },
+  {
+    "id": "qp-countries-099",
+    "category": "Countries",
+    "word": "PALAU",
+    "clues": [
+      "Tiny Pacific island nation east of the Philippines",
+      "Famous for its jellyfish lake where you can swim with millions of jellyfish",
+      "Created one of the world's largest marine sanctuaries"
+    ],
+    "factoid": "Palau's Jellyfish Lake contains millions of golden jellyfish that have lost their ability to sting, allowing swimmers to float among them."
+  },
+  {
+    "id": "qp-countries-100",
+    "category": "Countries",
+    "word": "CAPE VERDE",
+    "clues": [
+      "Atlantic island nation off West Africa's coast",
+      "A volcanic archipelago with year-round warm weather",
+      "Cesaria Evora brought its morna music to the world stage"
+    ],
+    "factoid": "Cape Verde has no natural rivers or lakes, and the country depends almost entirely on desalinated seawater and rainwater collection."
+  }
+]

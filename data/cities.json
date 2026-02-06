@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "qp-cities-001",
+    "category": "Cities",
+    "word": "DUBAI",
+    "clues": [
+      "This city rose from the desert in just a few decades",
+      "Home to the world's tallest building",
+      "Known for luxury shopping and ultramodern architecture"
+    ],
+    "factoid": "Dubai's police fleet includes Lamborghinis and Ferraris."
+  },
+  {
+    "id": "qp-cities-002",
+    "category": "Cities",
+    "word": "ROME",
+    "clues": [
+      "All roads once led to this ancient city",
+      "Home to the Colosseum and the Vatican",
+      "The Eternal City in Italy"
+    ],
+    "factoid": "Rome's Trevi Fountain collects about 3,000 euros daily in coins."
+  },
+  {
+    "id": "qp-cities-003",
+    "category": "Cities",
+    "word": "SYDNEY",
+    "clues": [
+      "This coastal city hosted the 2000 Summer Olympics",
+      "Famous for its harbor and iconic opera house",
+      "The largest city in Australia"
+    ],
+    "factoid": "Sydney Opera House's roof is covered in over 1 million tiles."
+  },
+  {
+    "id": "qp-cities-004",
+    "category": "Cities",
+    "word": "LONDON",
+    "clues": [
+      "Big Ben towers over this historic European capital",
+      "Home to Buckingham Palace and the Thames River",
+      "Hosted the Olympics three times"
+    ],
+    "factoid": "London has over 170 museums, many of which are free."
+  },
+  {
+    "id": "qp-cities-005",
+    "category": "Cities",
+    "word": "CAIRO",
+    "clues": [
+      "This ancient city sits near the Pyramids of Giza",
+      "The largest city in the Arab world",
+      "Located on the Nile River in Africa"
+    ],
+    "factoid": "Cairo's nickname is 'The City of a Thousand Minarets'."
+  },
+  {
+    "id": "qp-cities-006",
+    "category": "Cities",
+    "word": "NEW YORK",
+    "clues": [
+      "This city is home to the Statue of Liberty",
+      "Known as the city that never sleeps",
+      "Times Square and Central Park are iconic landmarks here"
+    ],
+    "factoid": "New York City's subway system has 472 stations, more than any other city."
+  },
+  {
+    "id": "qp-cities-007",
+    "category": "Cities",
+    "word": "MUMBAI",
+    "clues": [
+      "This coastal Indian megacity is the heart of Bollywood",
+      "Formerly known by a colonial-era name until 1995",
+      "Home to the Gateway of India and the world's most expensive private home"
+    ],
+    "factoid": "Mumbai's local trains carry over 7.5 million passengers daily."
+  },
+  {
+    "id": "qp-cities-008",
+    "category": "Cities",
+    "word": "BERLIN",
+    "clues": [
+      "This European capital was divided by a wall for 28 years",
+      "Known for its vibrant nightlife and street art scene",
+      "The Brandenburg Gate is its most famous landmark"
+    ],
+    "factoid": "Berlin has more bridges than Venice — around 1,700."
+  },
+  {
+    "id": "qp-cities-009",
+    "category": "Cities",
+    "word": "ISTANBUL",
+    "clues": [
+      "This city spans two continents across a famous strait",
+      "Was the capital of three empires: Roman, Byzantine, and Ottoman",
+      "Home to the Blue Mosque and the Grand Bazaar"
+    ],
+    "factoid": "Istanbul's Grand Bazaar is one of the oldest and largest covered markets with over 4,000 shops."
+  },
+  {
+    "id": "qp-cities-010",
+    "category": "Cities",
+    "word": "BARCELONA",
+    "clues": [
+      "This Mediterranean city is famous for its unfinished cathedral",
+      "Home to Las Ramblas and a world-famous football club",
+      "Antoni Gaudi's architecture defines its skyline"
+    ],
+    "factoid": "La Sagrada Familia has been under construction since 1882."
+  },
+  {
+    "id": "qp-cities-011",
+    "category": "Cities",
+    "word": "AMSTERDAM",
+    "clues": [
+      "This European city is famous for its canals and bicycles",
+      "Home to the Anne Frank House and the Rijksmuseum",
+      "Has more bikes than people"
+    ],
+    "factoid": "Amsterdam has over 1,200 bridges and 165 canals."
+  },
+  {
+    "id": "qp-cities-012",
+    "category": "Cities",
+    "word": "BANGKOK",
+    "clues": [
+      "This Southeast Asian capital is known for ornate temples and street food",
+      "The Grand Palace is its most visited attraction",
+      "Its full ceremonial name is the longest city name in the world"
+    ],
+    "factoid": "Bangkok has over 400 Buddhist temples."
+  },
+  {
+    "id": "qp-cities-013",
+    "category": "Cities",
+    "word": "PRAGUE",
+    "clues": [
+      "This Central European capital is known as the City of a Hundred Spires",
+      "Famous for its medieval astronomical clock",
+      "The Charles Bridge has been standing since the 14th century"
+    ],
+    "factoid": "Prague Castle is the largest ancient castle complex in the world."
+  },
+  {
+    "id": "qp-cities-014",
+    "category": "Cities",
+    "word": "LISBON",
+    "clues": [
+      "This hilly capital city is famous for its yellow trams",
+      "One of the oldest cities in Western Europe",
+      "Known for pasteis de nata and fado music"
+    ],
+    "factoid": "Lisbon is older than Rome by about 400 years."
+  },
+  {
+    "id": "qp-cities-015",
+    "category": "Cities",
+    "word": "VENICE",
+    "clues": [
+      "This Italian city is built on 118 small islands",
+      "Gondolas are its most iconic form of transportation",
+      "Known as La Serenissima and famous for its carnival masks"
+    ],
+    "factoid": "Venice has no roads — only canals, boats, and footpaths."
+  },
+  {
+    "id": "qp-cities-016",
+    "category": "Cities",
+    "word": "SINGAPORE",
+    "clues": [
+      "This city-state is both a city and a country",
+      "Known for strict laws and spotless streets",
+      "Home to Marina Bay Sands and Gardens by the Bay"
+    ],
+    "factoid": "Singapore has the world's first night safari zoo."
+  },
+  {
+    "id": "qp-cities-017",
+    "category": "Cities",
+    "word": "NAIROBI",
+    "clues": [
+      "This African capital has a national park within its city limits",
+      "Known as the Green City in the Sun",
+      "A major hub for wildlife conservation and safari tourism"
+    ],
+    "factoid": "Nairobi National Park is the only wildlife park in the world inside a capital city."
+  },
+  {
+    "id": "qp-cities-018",
+    "category": "Cities",
+    "word": "VIENNA",
+    "clues": [
+      "This European capital is the birthplace of classical music traditions",
+      "Famous for its coffee houses, opera, and Sachertorte",
+      "Mozart, Beethoven, and Strauss all lived here"
+    ],
+    "factoid": "Vienna has been ranked the world's most livable city multiple years in a row."
+  },
+  {
+    "id": "qp-cities-019",
+    "category": "Cities",
+    "word": "BUENOS AIRES",
+    "clues": [
+      "This South American capital is known as the Paris of the South",
+      "Tango was born in the neighborhoods of this city",
+      "Home to the widest avenue in the world"
+    ],
+    "factoid": "Buenos Aires has more bookstores per capita than any other city."
+  },
+  {
+    "id": "qp-cities-020",
+    "category": "Cities",
+    "word": "HAVANA",
+    "clues": [
+      "This Caribbean capital is frozen in time with vintage 1950s cars",
+      "Famous for its colorful colonial architecture and salsa music",
+      "The Malecon seawall stretches 8 kilometers along its coast"
+    ],
+    "factoid": "Havana's old town is a UNESCO World Heritage Site with buildings dating to the 1500s."
+  },
+  {
+    "id": "qp-cities-021",
+    "category": "Cities",
+    "word": "ATHENS",
+    "clues": [
+      "This ancient capital is considered the cradle of Western civilization",
+      "The Parthenon sits atop its most famous hill",
+      "Hosted the first modern Olympic Games in 1896"
+    ],
+    "factoid": "Athens has been continuously inhabited for over 7,000 years."
+  },
+  {
+    "id": "qp-cities-022",
+    "category": "Cities",
+    "word": "KYOTO",
+    "clues": [
+      "This Japanese city was the imperial capital for over 1,000 years",
+      "Famous for its thousands of temples and traditional geisha districts",
+      "Known for its bamboo forest and golden pavilion"
+    ],
+    "factoid": "Kyoto was spared from bombing in World War II because of its cultural importance."
+  },
+  {
+    "id": "qp-cities-023",
+    "category": "Cities",
+    "word": "MARRAKECH",
+    "clues": [
+      "This North African city is known as the Red City",
+      "Its bustling main square features snake charmers and food stalls",
+      "Famous for its souks, riads, and Jardin Majorelle"
+    ],
+    "factoid": "Marrakech's medina is so large and maze-like that GPS often doesn't work inside it."
+  },
+  {
+    "id": "qp-cities-024",
+    "category": "Cities",
+    "word": "SEOUL",
+    "clues": [
+      "This Asian megacity blends ancient palaces with futuristic technology",
+      "Home to K-pop, kimchi, and some of the fastest internet in the world",
+      "The capital of South Korea"
+    ],
+    "factoid": "Seoul's subway system has free Wi-Fi in every station and train."
+  },
+  {
+    "id": "qp-cities-025",
+    "category": "Cities",
+    "word": "REYKJAVIK",
+    "clues": [
+      "This is the northernmost capital city in the world",
+      "Nearly all its energy comes from geothermal and hydroelectric power",
+      "Home to the famous Blue Lagoon nearby"
+    ],
+    "factoid": "Reykjavik gets nearly 24 hours of daylight during summer solstice."
+  },
+  {
+    "id": "qp-cities-026",
+    "category": "Cities",
+    "word": "MOSCOW",
+    "clues": [
+      "This capital city sits along a river that shares its name",
+      "Home to a fortress complex with red walls and golden domes",
+      "Its famous square is named after the Russian word for beautiful"
+    ],
+    "factoid": "Moscow's metro system is so ornate it is often called an underground palace, with chandeliers and marble walls."
+  },
+  {
+    "id": "qp-cities-027",
+    "category": "Cities",
+    "word": "BEIJING",
+    "clues": [
+      "This East Asian capital has served as a seat of power for over 800 years",
+      "Home to the largest ancient palace complex in the world",
+      "Its name translates to Northern Capital"
+    ],
+    "factoid": "Beijing's Forbidden City contains 9,999 rooms, just one short of the mythical 10,000 reserved for heaven."
+  },
+  {
+    "id": "qp-cities-028",
+    "category": "Cities",
+    "word": "MEXICO CITY",
+    "clues": [
+      "This sprawling capital was built on the ruins of an Aztec city",
+      "It sits in a valley over 2,200 meters above sea level",
+      "Home to the massive Zocalo plaza and the palace of Chapultepec"
+    ],
+    "factoid": "Mexico City is sinking at a rate of about 50 centimeters per year due to groundwater extraction beneath it."
+  },
+  {
+    "id": "qp-cities-029",
+    "category": "Cities",
+    "word": "TORONTO",
+    "clues": [
+      "This North American city is the most populous in its country",
+      "Home to a freestanding tower that was once the world's tallest structure",
+      "Located on the northwestern shore of Lake Ontario"
+    ],
+    "factoid": "Toronto has over 200 distinct ethnic groups, making it one of the most multicultural cities on Earth."
+  },
+  {
+    "id": "qp-cities-030",
+    "category": "Cities",
+    "word": "CAPE TOWN",
+    "clues": [
+      "This southern port city is overlooked by a famous flat-topped mountain",
+      "Located near the meeting point of two oceans",
+      "It served as a key stop for ships sailing between Europe and Asia"
+    ],
+    "factoid": "Cape Town's Table Mountain is estimated to be one of the oldest mountains in the world, at roughly 600 million years old."
+  },
+  {
+    "id": "qp-cities-031",
+    "category": "Cities",
+    "word": "RIO DE JANEIRO",
+    "clues": [
+      "This South American city hosts the world's largest carnival celebration",
+      "An enormous statue with open arms watches over it from a mountaintop",
+      "Its name means River of January in Portuguese"
+    ],
+    "factoid": "Rio's famous Christ the Redeemer statue is struck by lightning an average of three to five times per year."
+  },
+  {
+    "id": "qp-cities-032",
+    "category": "Cities",
+    "word": "STOCKHOLM",
+    "clues": [
+      "This Scandinavian capital is spread across 14 islands",
+      "Home to the ceremony where Nobel Prizes are awarded",
+      "Its old town, Gamla Stan, dates back to the 13th century"
+    ],
+    "factoid": "Stockholm's subway system doubles as the world's longest art gallery, with art installations in over 90 stations."
+  },
+  {
+    "id": "qp-cities-033",
+    "category": "Cities",
+    "word": "EDINBURGH",
+    "clues": [
+      "This city hosts the world's largest annual arts festival",
+      "A medieval castle sits atop a volcanic rock at its center",
+      "The capital of Scotland and home to the Royal Mile"
+    ],
+    "factoid": "Edinburgh was the first city in the world to have its own fire brigade, established in 1824."
+  },
+  {
+    "id": "qp-cities-034",
+    "category": "Cities",
+    "word": "SHANGHAI",
+    "clues": [
+      "This Asian megacity is the world's busiest container port",
+      "Its waterfront promenade offers views of a futuristic skyline",
+      "The Bund and Pudong define its famous riverfront"
+    ],
+    "factoid": "Shanghai's Maglev train reaches 431 km/h, making it the fastest commercial train service in the world."
+  },
+  {
+    "id": "qp-cities-035",
+    "category": "Cities",
+    "word": "DUBLIN",
+    "clues": [
+      "This European capital sits at the mouth of the River Liffey",
+      "Its most famous export is a dark stout brewed since 1759",
+      "Home to the Book of Kells at Trinity College"
+    ],
+    "factoid": "Dublin's name comes from the Irish Dubh Linn, meaning black pool."
+  },
+  {
+    "id": "qp-cities-036",
+    "category": "Cities",
+    "word": "BUDAPEST",
+    "clues": [
+      "This European capital is actually two cities merged into one",
+      "Famous for its thermal baths fed by natural hot springs",
+      "The Danube River divides its hilly and flat halves"
+    ],
+    "factoid": "Budapest has the largest thermal water cave system in the world, with over 120 natural hot springs."
+  },
+  {
+    "id": "qp-cities-037",
+    "category": "Cities",
+    "word": "LIMA",
+    "clues": [
+      "This South American capital rarely sees rainfall",
+      "Founded by a Spanish conquistador in 1535",
+      "Located on the Pacific coast of Peru"
+    ],
+    "factoid": "Lima's historic center is a UNESCO World Heritage Site and contains catacombs beneath the San Francisco Monastery holding about 25,000 skeletons."
+  },
+  {
+    "id": "qp-cities-038",
+    "category": "Cities",
+    "word": "CHICAGO",
+    "clues": [
+      "This American city rebuilt itself after a devastating 1871 fire",
+      "Known for deep-dish pizza and a reflective bean-shaped sculpture",
+      "The Windy City on the shores of Lake Michigan"
+    ],
+    "factoid": "Chicago reversed the flow of its river using engineering in 1900 so it would no longer pollute its drinking water supply."
+  },
+  {
+    "id": "qp-cities-039",
+    "category": "Cities",
+    "word": "JOHANNESBURG",
+    "clues": [
+      "This African city was founded during a gold rush in the 1880s",
+      "It is the largest city in its country but not the capital",
+      "Locally known as Joburg or Jozi, it sits on the Witwatersrand ridge"
+    ],
+    "factoid": "Johannesburg is the world's largest city not situated on a river, lake, or coastline."
+  },
+  {
+    "id": "qp-cities-040",
+    "category": "Cities",
+    "word": "MIAMI",
+    "clues": [
+      "This subtropical American city is a gateway to Latin America and the Caribbean",
+      "Known for its art deco architecture and vibrant nightlife",
+      "South Beach and Little Havana are among its famous neighborhoods"
+    ],
+    "factoid": "Miami is the only major American city founded by a woman, Julia Tuttle."
+  },
+  {
+    "id": "qp-cities-041",
+    "category": "Cities",
+    "word": "COPENHAGEN",
+    "clues": [
+      "This Scandinavian capital is famous for its colorful waterfront houses",
+      "Home to the world's oldest amusement park, Tivoli Gardens",
+      "A small bronze mermaid statue sits in its harbor"
+    ],
+    "factoid": "Copenhagen has more bikes than cars, and residents cycle an average of 1.2 million kilometers per day combined."
+  },
+  {
+    "id": "qp-cities-042",
+    "category": "Cities",
+    "word": "SAN FRANCISCO",
+    "clues": [
+      "This hilly American city is famous for its steep streets and cable cars",
+      "A red suspension bridge spans the entrance to its bay",
+      "The Gold Rush of 1849 transformed it from a small settlement into a boomtown"
+    ],
+    "factoid": "San Francisco's famous fog has its own Twitter account and is affectionately nicknamed Karl."
+  },
+  {
+    "id": "qp-cities-043",
+    "category": "Cities",
+    "word": "WARSAW",
+    "clues": [
+      "This Eastern European capital was almost entirely rebuilt after World War II",
+      "Named after a fisherman and a mermaid from local legend",
+      "The capital of Poland, sitting on the Vistula River"
+    ],
+    "factoid": "Warsaw's Old Town was so meticulously reconstructed after wartime destruction that UNESCO granted it World Heritage status for the effort."
+  },
+  {
+    "id": "qp-cities-044",
+    "category": "Cities",
+    "word": "OSLO",
+    "clues": [
+      "This Scandinavian capital is surrounded by forests and fjords",
+      "Home to the ceremony for one particular Nobel Prize",
+      "The capital of Norway, known for the Vigeland Sculpture Park"
+    ],
+    "factoid": "Oslo awards the Nobel Peace Prize, while all other Nobel Prizes are awarded in Stockholm."
+  },
+  {
+    "id": "qp-cities-045",
+    "category": "Cities",
+    "word": "MANILA",
+    "clues": [
+      "This Southeast Asian capital is one of the most densely populated cities on Earth",
+      "Named after a white-flowering mangrove plant",
+      "Located on the eastern shore of a large bay in the Philippines"
+    ],
+    "factoid": "Manila's Binondo district is the oldest Chinatown in the world, established in 1594."
+  },
+  {
+    "id": "qp-cities-046",
+    "category": "Cities",
+    "word": "BOSTON",
+    "clues": [
+      "This American city played a central role in the revolution that founded its nation",
+      "Home to prestigious universities in a neighboring city called Cambridge",
+      "Its harbor was the site of a famous tea-dumping protest in 1773"
+    ],
+    "factoid": "Boston's Big Dig highway project took 15 years and cost over 24 billion dollars, making it the most expensive highway project in US history."
+  },
+  {
+    "id": "qp-cities-047",
+    "category": "Cities",
+    "word": "HELSINKI",
+    "clues": [
+      "This Nordic capital is known for its design scene and saunas",
+      "It hosted the Summer Olympics in 1952",
+      "The capital of Finland, sometimes called the White City of the North"
+    ],
+    "factoid": "Finland has roughly 3.3 million saunas for a population of 5.5 million, and this capital embraces that culture fully."
+  },
+  {
+    "id": "qp-cities-048",
+    "category": "Cities",
+    "word": "DENVER",
+    "clues": [
+      "This American city is exactly one mile above sea level",
+      "Located at the base of the Rocky Mountains",
+      "Its state capitol building has a gold-plated dome and a mile-high step"
+    ],
+    "factoid": "Denver gets over 300 days of sunshine per year, more annual sunny days than San Diego or Miami."
+  },
+  {
+    "id": "qp-cities-049",
+    "category": "Cities",
+    "word": "BOGOTA",
+    "clues": [
+      "This South American capital sits at 2,640 meters above sea level on a high plateau",
+      "Home to a world-renowned Gold Museum with thousands of pre-Columbian artifacts",
+      "The capital of Colombia, surrounded by Andean peaks"
+    ],
+    "factoid": "Bogota closes over 120 kilometers of roads every Sunday for Ciclovia, the largest car-free cycling event in the world."
+  },
+  {
+    "id": "qp-cities-050",
+    "category": "Cities",
+    "word": "MILAN",
+    "clues": [
+      "This European city is considered one of the world's fashion capitals",
+      "Home to a famous cathedral that took nearly six centuries to complete",
+      "Leonardo da Vinci's Last Supper is housed in one of its churches"
+    ],
+    "factoid": "Milan's Duomo cathedral has over 3,400 statues, making it the church with the most statues in the world."
+  },
+  {
+    "id": "qp-cities-051",
+    "category": "Cities",
+    "word": "SEATTLE",
+    "clues": [
+      "This Pacific Northwest city is famous for its coffee culture and rainy reputation",
+      "Home to a futuristic observation tower built for a 1962 world's fair",
+      "The birthplace of grunge music and a global tech giant named after a river"
+    ],
+    "factoid": "Despite its rainy reputation, Seattle actually gets less annual rainfall than New York, Houston, or Atlanta."
+  },
+  {
+    "id": "qp-cities-052",
+    "category": "Cities",
+    "word": "JERUSALEM",
+    "clues": [
+      "This ancient city is sacred to three major world religions",
+      "Its old quarter is divided into four distinct cultural sections",
+      "Home to the Western Wall and the Dome of the Rock"
+    ],
+    "factoid": "Jerusalem has been destroyed twice, besieged 23 times, attacked 52 times, and captured and recaptured 44 times throughout history."
+  },
+  {
+    "id": "qp-cities-053",
+    "category": "Cities",
+    "word": "HANOI",
+    "clues": [
+      "This Southeast Asian capital is known for its centuries-old architecture",
+      "Its Old Quarter has streets named after the goods once traded on them",
+      "The capital of Vietnam, located on the Red River"
+    ],
+    "factoid": "Hanoi's Hoan Kiem Lake is named after a legend of a golden turtle god who reclaimed a magical sword from an emperor."
+  },
+  {
+    "id": "qp-cities-054",
+    "category": "Cities",
+    "word": "MONTREAL",
+    "clues": [
+      "This North American city is the second-largest French-speaking city in the world",
+      "Home to a massive underground pedestrian network spanning 33 kilometers",
+      "Named after a triple-peaked hill at its center called Mount Royal"
+    ],
+    "factoid": "Montreal's underground city, called RESO, is the largest underground complex in the world with over 1,600 shops."
+  },
+  {
+    "id": "qp-cities-055",
+    "category": "Cities",
+    "word": "FLORENCE",
+    "clues": [
+      "This Italian city is considered the birthplace of the Renaissance",
+      "Home to Michelangelo's marble David and Botticelli's Birth of Venus",
+      "Its iconic dome was engineered by Brunelleschi in the 15th century"
+    ],
+    "factoid": "Florence's Ponte Vecchio bridge has housed shops since the 14th century and was the only bridge in the city not destroyed during World War II."
+  },
+  {
+    "id": "qp-cities-056",
+    "category": "Cities",
+    "word": "KUALA LUMPUR",
+    "clues": [
+      "This Southeast Asian capital's name means muddy confluence in Malay",
+      "Home to twin skyscrapers connected by a sky bridge",
+      "The capital of Malaysia, known for its Petronas Towers"
+    ],
+    "factoid": "Kuala Lumpur's Petronas Towers were the tallest buildings in the world from 1998 to 2004, and their floor plan is based on an eight-pointed Islamic star."
+  },
+  {
+    "id": "qp-cities-057",
+    "category": "Cities",
+    "word": "ZURICH",
+    "clues": [
+      "This European city consistently ranks as one of the most livable in the world",
+      "A major global banking and financial center beside a pristine lake",
+      "The largest city in Switzerland, known for Bahnhofstrasse shopping boulevard"
+    ],
+    "factoid": "Zurich has over 1,200 fountains throughout the city, and virtually all of them dispense clean drinking water."
+  },
+  {
+    "id": "qp-cities-058",
+    "category": "Cities",
+    "word": "LAGOS",
+    "clues": [
+      "This African megacity is the most populous city on its continent",
+      "Originally settled on islands in a lagoon before expanding to the mainland",
+      "The economic hub of Nigeria and a major port on the Gulf of Guinea"
+    ],
+    "factoid": "Lagos is growing so rapidly that it is projected to become the world's most populous city by 2100."
+  },
+  {
+    "id": "qp-cities-059",
+    "category": "Cities",
+    "word": "VANCOUVER",
+    "clues": [
+      "This Canadian city is nestled between mountains and the Pacific Ocean",
+      "Hosted the 2010 Winter Olympics",
+      "Named after a British naval captain who explored its harbor in 1792"
+    ],
+    "factoid": "Vancouver's Stanley Park is larger than Central Park and is home to trees over 500 years old."
+  },
+  {
+    "id": "qp-cities-060",
+    "category": "Cities",
+    "word": "CUSCO",
+    "clues": [
+      "This high-altitude South American city was once the capital of a vast empire",
+      "The gateway city for travelers heading to a famous mountain citadel",
+      "The historic heart of the Inca Empire in Peru"
+    ],
+    "factoid": "Cusco's Inca stone walls are so precisely fitted that you cannot slide a piece of paper between the stones."
+  },
+  {
+    "id": "qp-cities-061",
+    "category": "Cities",
+    "word": "BRUGES",
+    "clues": [
+      "This medieval European city is laced with canals and cobblestone streets",
+      "Famous for its chocolate shops and Gothic architecture",
+      "Often called the Venice of the North, located in Belgium"
+    ],
+    "factoid": "Bruges has an underground beer pipeline that runs three kilometers from the brewery to the bottling plant."
+  },
+  {
+    "id": "qp-cities-062",
+    "category": "Cities",
+    "word": "CARTAGENA",
+    "clues": [
+      "This walled Caribbean port city was a key hub in the Spanish colonial era",
+      "Its colorful old town is a UNESCO World Heritage Site",
+      "Located on the northern coast of Colombia"
+    ],
+    "factoid": "Cartagena's walls took over 200 years to build and stretch for 11 kilometers around the old city."
+  },
+  {
+    "id": "qp-cities-063",
+    "category": "Cities",
+    "word": "TBILISI",
+    "clues": [
+      "This Eurasian capital is named after the warm sulfur springs found here",
+      "Its old town features a mix of medieval, art nouveau, and Soviet architecture",
+      "The capital of Georgia, perched in the Caucasus Mountains"
+    ],
+    "factoid": "Tbilisi's name comes from the Georgian word tbili, meaning warm, referring to the natural hot sulfur springs in the area."
+  },
+  {
+    "id": "qp-cities-064",
+    "category": "Cities",
+    "word": "VALLETTA",
+    "clues": [
+      "This tiny European capital was built by crusading knights in the 16th century",
+      "One of the most concentrated historic areas in the world at under one square kilometer",
+      "The capital of Malta, named after Grand Master Jean de Valette"
+    ],
+    "factoid": "Valletta is the smallest national capital in the European Union by both area and population."
+  },
+  {
+    "id": "qp-cities-065",
+    "category": "Cities",
+    "word": "DUBROVNIK",
+    "clues": [
+      "This Croatian coastal city is enclosed by massive medieval walls",
+      "It served as a filming location for a fictional capital in a hit fantasy TV series",
+      "Known as the Pearl of the Adriatic"
+    ],
+    "factoid": "Dubrovnik established one of the world's first organized quarantine systems in 1377 during the Black Death."
+  },
+  {
+    "id": "qp-cities-066",
+    "category": "Cities",
+    "word": "PETRA",
+    "clues": [
+      "This ancient city is carved directly into rose-red sandstone cliffs",
+      "Hidden for centuries until rediscovered by a Swiss explorer in 1812",
+      "Located in a narrow canyon in southern Jordan"
+    ],
+    "factoid": "Only about 15 percent of Petra has been explored and excavated by archaeologists; the remaining 85 percent is still underground."
+  },
+  {
+    "id": "qp-cities-067",
+    "category": "Cities",
+    "word": "SALZBURG",
+    "clues": [
+      "This Alpine city's name means salt fortress in German",
+      "The birthplace of one of history's greatest musical composers",
+      "A famous musical film was set in and around this Austrian city"
+    ],
+    "factoid": "Salzburg's old town is so well preserved that the entire historic center is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "qp-cities-068",
+    "category": "Cities",
+    "word": "FEZ",
+    "clues": [
+      "This North African city has the world's oldest continuously operating university",
+      "Its medieval walled district is the largest car-free urban zone on Earth",
+      "A historic Moroccan city known for its tanneries and blue-tiled mosques"
+    ],
+    "factoid": "The University of al-Qarawiyyin in Fez was founded in 859 AD, making it the oldest existing university in the world."
+  },
+  {
+    "id": "qp-cities-069",
+    "category": "Cities",
+    "word": "OSAKA",
+    "clues": [
+      "This Japanese city is known as the nation's kitchen for its street food culture",
+      "Home to a castle rebuilt multiple times over its 400-year history",
+      "Japan's second-largest metropolitan area and the birthplace of instant ramen"
+    ],
+    "factoid": "Osaka is home to the first-ever capsule hotel, which opened in 1979."
+  },
+  {
+    "id": "qp-cities-070",
+    "category": "Cities",
+    "word": "KATHMANDU",
+    "clues": [
+      "This Himalayan capital sits in a valley with seven UNESCO World Heritage Sites",
+      "The primary gateway for mountaineers heading to the world's highest peak",
+      "The capital of Nepal, known for its Buddhist stupas and Hindu temples"
+    ],
+    "factoid": "Kathmandu Valley was once a lake, and its fertile soil from ancient lakebed sediment is what allowed civilization to flourish there."
+  },
+  {
+    "id": "qp-cities-071",
+    "category": "Cities",
+    "word": "TALLINN",
+    "clues": [
+      "This Baltic capital has one of the best-preserved medieval old towns in Europe",
+      "A pioneer in digital governance, it was the first country to offer e-residency",
+      "The capital of Estonia, located on the coast of the Gulf of Finland"
+    ],
+    "factoid": "Tallinn's Christmas market tradition dates to 1441, and the city claims to have erected the first public Christmas tree in Europe."
+  },
+  {
+    "id": "qp-cities-072",
+    "category": "Cities",
+    "word": "ZANZIBAR",
+    "clues": [
+      "This island city off the East African coast was once the center of the spice trade",
+      "Its Stone Town district is a maze of narrow alleys and carved wooden doors",
+      "A semi-autonomous part of Tanzania and the birthplace of Freddie Mercury"
+    ],
+    "factoid": "Zanzibar fought what is believed to be the shortest war in history, lasting roughly 38 to 45 minutes against the British in 1896."
+  },
+  {
+    "id": "qp-cities-073",
+    "category": "Cities",
+    "word": "SEVILLE",
+    "clues": [
+      "This Spanish city is famous for flamenco dancing and tapas",
+      "Home to one of the largest Gothic cathedrals in the world",
+      "Its Alcazar palace was used as a filming location for a fantasy TV kingdom"
+    ],
+    "factoid": "Seville's cathedral contains the tomb of Christopher Columbus, whose remains were carried by four statues representing Spanish kingdoms."
+  },
+  {
+    "id": "qp-cities-074",
+    "category": "Cities",
+    "word": "SANTIAGO",
+    "clues": [
+      "This South American capital is surrounded by the Andes on one side and coastal mountains on the other",
+      "Home to the tallest building on its continent",
+      "The capital of Chile, named after Saint James"
+    ],
+    "factoid": "Santiago's Gran Torre, at 300 meters, is the tallest building in South America and has a shopping mall built into its base."
+  },
+  {
+    "id": "qp-cities-075",
+    "category": "Cities",
+    "word": "LHASA",
+    "clues": [
+      "This high-altitude city sits at over 3,600 meters above sea level",
+      "Home to a towering palace that was once the seat of a spiritual leader",
+      "The traditional capital of Tibet, known as the Place of the Gods"
+    ],
+    "factoid": "Lhasa's Potala Palace has over 1,000 rooms and contains the tombs of past Dalai Lamas, decorated with nearly five tons of gold."
+  },
+  {
+    "id": "qp-cities-076",
+    "category": "Cities",
+    "word": "QUITO",
+    "clues": [
+      "This South American capital sits nearly on the equator at 2,850 meters altitude",
+      "One of the first cities designated as a UNESCO World Heritage Site",
+      "The capital of Ecuador, nestled in an Andean valley"
+    ],
+    "factoid": "Quito's historic center is the largest and best-preserved in the Americas, covering 320 hectares."
+  },
+  {
+    "id": "qp-cities-077",
+    "category": "Cities",
+    "word": "PHOENIX",
+    "clues": [
+      "This American desert city is one of the hottest in the country",
+      "Named after a mythological bird that rises from ashes",
+      "The capital of Arizona, built on the ruins of an ancient Hohokam canal system"
+    ],
+    "factoid": "Phoenix is so hot that during summer heat waves, planes sometimes cannot take off because the air is too thin for lift."
+  },
+  {
+    "id": "qp-cities-078",
+    "category": "Cities",
+    "word": "SPLIT",
+    "clues": [
+      "This Croatian coastal city grew inside the walls of a Roman emperor's retirement palace",
+      "The palace complex is still inhabited and forms the city center today",
+      "Built for Emperor Diocletian on the Dalmatian coast"
+    ],
+    "factoid": "Split's Diocletian's Palace is one of the most complete Roman structures still standing, and about 3,000 people still live within its walls."
+  },
+  {
+    "id": "qp-cities-079",
+    "category": "Cities",
+    "word": "MEDELLIN",
+    "clues": [
+      "This Colombian city transformed from one of the world's most dangerous to a model of urban innovation",
+      "Famous for its cable car public transit system connecting hillside neighborhoods",
+      "Known as the City of Eternal Spring for its year-round mild climate"
+    ],
+    "factoid": "Medellin won the Urban Land Institute's Innovative City of the Year award in 2013, beating out New York and Tel Aviv."
+  },
+  {
+    "id": "qp-cities-080",
+    "category": "Cities",
+    "word": "VARANASI",
+    "clues": [
+      "This city on the banks of the Ganges is one of the oldest continuously inhabited places on Earth",
+      "Hindu pilgrims come here for sacred bathing rituals along stone steps called ghats",
+      "Also known as Benares or Kashi, in the Indian state of Uttar Pradesh"
+    ],
+    "factoid": "Varanasi has been continuously inhabited for over 5,000 years, making it older than recorded history itself."
+  },
+  {
+    "id": "qp-cities-081",
+    "category": "Cities",
+    "word": "LYON",
+    "clues": [
+      "This French city is considered the gastronomic capital of the world",
+      "Located at the confluence of two major rivers, the Rhone and the Saone",
+      "Home to the Lumiere brothers, who invented cinema here in the 1890s"
+    ],
+    "factoid": "Lyon has a network of secret passageways called traboules, originally used by silk workers and later by the French Resistance during World War II."
+  },
+  {
+    "id": "qp-cities-082",
+    "category": "Cities",
+    "word": "BRATISLAVA",
+    "clues": [
+      "This European capital is the only one that borders two other countries",
+      "Located just 60 kilometers from another European capital city",
+      "The capital of Slovakia, sitting on the banks of the Danube"
+    ],
+    "factoid": "Bratislava and Vienna are the two closest capital cities in Europe, separated by only about 60 kilometers."
+  },
+  {
+    "id": "qp-cities-083",
+    "category": "Cities",
+    "word": "LUANG PRABANG",
+    "clues": [
+      "This Southeast Asian town is known for its Buddhist monks collecting morning alms",
+      "Nestled at the confluence of the Mekong and Nam Khan rivers",
+      "A UNESCO World Heritage town and former royal capital of Laos"
+    ],
+    "factoid": "Every morning at dawn, hundreds of monks in orange robes walk through Luang Prabang in a silent alms-giving ceremony that has continued for centuries."
+  },
+  {
+    "id": "qp-cities-084",
+    "category": "Cities",
+    "word": "DETROIT",
+    "clues": [
+      "This American city was once the manufacturing capital of the automobile industry",
+      "Its nickname is the Motor City, and it gave birth to a famous record label's sound",
+      "Home to Motown Records and the assembly lines of Ford, GM, and Chrysler"
+    ],
+    "factoid": "Detroit was the first US city to assign individual telephone numbers, pave a concrete road, and install a traffic light."
+  },
+  {
+    "id": "qp-cities-085",
+    "category": "Cities",
+    "word": "ACCRA",
+    "clues": [
+      "This West African capital sits on the Gulf of Guinea coast",
+      "Home to Kwame Nkrumah's memorial, honoring the leader who led its country to independence",
+      "The capital of Ghana, known for its vibrant markets and Jamestown lighthouse"
+    ],
+    "factoid": "Accra hosts elaborate fantasy coffin workshops where artisans build coffins shaped like airplanes, fish, and cars for funerals."
+  },
+  {
+    "id": "qp-cities-086",
+    "category": "Cities",
+    "word": "CHIANG MAI",
+    "clues": [
+      "This northern Thai city is surrounded by a moat and remnants of ancient walls",
+      "Famous for its hundreds of ornate Buddhist temples",
+      "Known for its annual lantern festival where thousands of lights float into the sky"
+    ],
+    "factoid": "Chiang Mai has over 300 Buddhist temples within and around the city, earning it the nickname Rose of the North."
+  },
+  {
+    "id": "qp-cities-087",
+    "category": "Cities",
+    "word": "PORTO",
+    "clues": [
+      "This Portuguese city gave an entire country its name",
+      "Famous for its fortified wine aged in cellars along the Douro River",
+      "Its Livraria Lello bookshop is said to have inspired a fictional school of wizardry"
+    ],
+    "factoid": "Porto's Sao Bento train station features over 20,000 hand-painted blue and white azulejo tiles depicting the history of Portugal."
+  },
+  {
+    "id": "qp-cities-088",
+    "category": "Cities",
+    "word": "MUSCAT",
+    "clues": [
+      "This Middle Eastern capital is nestled between desert mountains and the Arabian Sea",
+      "Known for its gleaming white buildings and a ban on high-rise construction in the old town",
+      "The capital of Oman, home to the Sultan Qaboos Grand Mosque"
+    ],
+    "factoid": "Muscat's Sultan Qaboos Grand Mosque contains a handmade Persian carpet that weighs 21 tons and took 600 women four years to weave."
+  },
+  {
+    "id": "qp-cities-089",
+    "category": "Cities",
+    "word": "SAMARKAND",
+    "clues": [
+      "This ancient Central Asian city was a key stop on the Silk Road",
+      "Its Registan Square features three massive Islamic schools with turquoise domes",
+      "Located in modern-day Uzbekistan, it was once conquered by Alexander the Great"
+    ],
+    "factoid": "Samarkand is roughly the same age as Rome and Babylon, with a history spanning over 2,750 years."
+  },
+  {
+    "id": "qp-cities-090",
+    "category": "Cities",
+    "word": "NEW ORLEANS",
+    "clues": [
+      "This American city is known for jazz music and a famous pre-Lenten celebration",
+      "Its French Quarter features wrought-iron balconies and Creole cuisine",
+      "Much of this Louisiana city sits below sea level, protected by levees"
+    ],
+    "factoid": "New Orleans' above-ground cemeteries are called Cities of the Dead because the high water table prevents traditional burial."
+  },
+  {
+    "id": "qp-cities-091",
+    "category": "Cities",
+    "word": "JAIPUR",
+    "clues": [
+      "This Indian city is known for its distinctive colored architecture throughout the old town",
+      "Home to a palace with a facade of 953 small windows",
+      "Called the Pink City, it is part of India's famous Golden Triangle tourist route"
+    ],
+    "factoid": "Jaipur was painted pink in 1876 to welcome Prince Albert, and a law still requires buildings in the old city to maintain the color."
+  },
+  {
+    "id": "qp-cities-092",
+    "category": "Cities",
+    "word": "BERGEN",
+    "clues": [
+      "This Norwegian city is one of the rainiest in Europe with over 200 rainy days per year",
+      "Its colorful wooden wharf houses are a UNESCO World Heritage Site",
+      "Known as the Gateway to the Fjords on Norway's southwestern coast"
+    ],
+    "factoid": "Bergen's Bryggen wharf has been destroyed by fire and rebuilt multiple times since the 14th century, always following the original medieval layout."
+  },
+  {
+    "id": "qp-cities-093",
+    "category": "Cities",
+    "word": "BAKU",
+    "clues": [
+      "This Caspian Sea capital blends ancient walled city with futuristic flame-shaped towers",
+      "Mud volcanoes and eternal natural gas fires burn on its outskirts",
+      "The capital of Azerbaijan, once called the City of Winds"
+    ],
+    "factoid": "Baku's Yanar Dag has been burning continuously for at least 65 years, fueled by natural gas seeping through the hillside."
+  },
+  {
+    "id": "qp-cities-094",
+    "category": "Cities",
+    "word": "ADDIS ABABA",
+    "clues": [
+      "This African capital sits at over 2,300 meters, making it one of the highest capitals in the world",
+      "Home to the headquarters of the African Union",
+      "The capital of Ethiopia, whose name means New Flower"
+    ],
+    "factoid": "Addis Ababa's National Museum houses Lucy, the 3.2-million-year-old fossilized skeleton of a human ancestor."
+  },
+  {
+    "id": "qp-cities-095",
+    "category": "Cities",
+    "word": "GDANSK",
+    "clues": [
+      "This Polish port city on the Baltic Sea played a key role in starting World War II",
+      "Birthplace of the Solidarity movement that helped end communist rule in Eastern Europe",
+      "Famous for its amber trade and reconstructed medieval merchant houses"
+    ],
+    "factoid": "Gdansk is known as the Amber Capital of the world, and its annual Dominican Fair has been held since 1260."
+  },
+  {
+    "id": "qp-cities-096",
+    "category": "Cities",
+    "word": "ASUNCION",
+    "clues": [
+      "This South American capital is known as the Mother of Cities for being a colonial launching point",
+      "One of the least expensive capital cities in the world to visit",
+      "The capital of Paraguay, located on the banks of the Paraguay River"
+    ],
+    "factoid": "Asuncion was founded on August 15, 1537, the day of the Assumption, which is how the city got its name."
+  },
+  {
+    "id": "qp-cities-097",
+    "category": "Cities",
+    "word": "GHENT",
+    "clues": [
+      "This medieval Belgian city was once the largest city in Europe outside of Paris",
+      "Home to the Mystic Lamb, one of the most important paintings in art history",
+      "Its three towers and canal-side architecture rival its more famous neighbor, Bruges"
+    ],
+    "factoid": "The Ghent Altarpiece, also known as The Adoration of the Mystic Lamb, is considered the most stolen artwork in history, taken 13 times."
+  },
+  {
+    "id": "qp-cities-098",
+    "category": "Cities",
+    "word": "MONTEVIDEO",
+    "clues": [
+      "This South American capital has the longest continuous carnival celebration in the world at 40 days",
+      "Home to the first ever FIFA World Cup final in 1930",
+      "The capital of Uruguay, located on the northern shore of the River Plate"
+    ],
+    "factoid": "Montevideo regularly tops quality-of-life rankings for South American cities and has free public Wi-Fi across the entire city."
+  },
+  {
+    "id": "qp-cities-099",
+    "category": "Cities",
+    "word": "TIMBUKTU",
+    "clues": [
+      "This legendary West African city was once a major center of Islamic scholarship",
+      "Its name has become a metaphor for the most distant place imaginable",
+      "Located on the edge of the Sahara Desert in Mali, home to ancient manuscript libraries"
+    ],
+    "factoid": "Timbuktu's libraries contain hundreds of thousands of ancient manuscripts on subjects from astronomy to law, some dating back to the 13th century."
+  },
+  {
+    "id": "qp-cities-100",
+    "category": "Cities",
+    "word": "TEHRAN",
+    "clues": [
+      "This Middle Eastern capital is backed by a snow-capped volcanic peak over 5,600 meters tall",
+      "Home to the Crown Jewels collection considered one of the most valuable in the world",
+      "The capital of Iran, situated at the foot of the Alborz Mountains"
+    ],
+    "factoid": "Tehran's Golestan Palace complex is a UNESCO World Heritage Site and was the seat of the Qajar dynasty for over 200 years."
+  }
+]

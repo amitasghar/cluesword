@@ -1,0 +1,2136 @@
+[
+  {
+    "id": "qp-animals-001",
+    "category": "Animals",
+    "word": "TIGER",
+    "clues": [
+      "This large cat is native to Asia",
+      "Known for its orange coat with black stripes",
+      "The largest living cat species"
+    ],
+    "factoid": "No two tigers have the same stripe pattern."
+  },
+  {
+    "id": "qp-animals-002",
+    "category": "Animals",
+    "word": "PENGUIN",
+    "clues": [
+      "This flightless bird is an excellent swimmer",
+      "Lives primarily in the Southern Hemisphere",
+      "Featured in the documentary 'March of the Penguins'"
+    ],
+    "factoid": "Emperor penguins can dive to depths of 1,800 feet."
+  },
+  {
+    "id": "qp-animals-003",
+    "category": "Animals",
+    "word": "EAGLE",
+    "clues": [
+      "This bird of prey has incredible eyesight",
+      "Often used as a symbol of power and freedom",
+      "The bald variety is the national bird of the USA"
+    ],
+    "factoid": "Eagles can spot prey from over 2 miles away."
+  },
+  {
+    "id": "qp-animals-004",
+    "category": "Animals",
+    "word": "KOALA",
+    "clues": [
+      "This marsupial sleeps up to 22 hours a day",
+      "Eats mainly eucalyptus leaves",
+      "Native to Australia but not actually a bear"
+    ],
+    "factoid": "Koalas have fingerprints almost identical to humans."
+  },
+  {
+    "id": "qp-animals-005",
+    "category": "Animals",
+    "word": "WHALE",
+    "clues": [
+      "The largest animals to ever live on Earth",
+      "Some species sing complex songs underwater",
+      "Despite their size, they eat tiny krill"
+    ],
+    "factoid": "A blue whale's heart is the size of a small car."
+  },
+  {
+    "id": "qp-animals-006",
+    "category": "Animals",
+    "word": "OCTOPUS",
+    "clues": [
+      "This sea creature has three hearts and blue blood",
+      "Known for squirting ink and squeezing through tiny spaces",
+      "Has eight arms and is considered extremely intelligent"
+    ],
+    "factoid": "An octopus can taste with its suckers and has no bones in its body."
+  },
+  {
+    "id": "qp-animals-007",
+    "category": "Animals",
+    "word": "GIRAFFE",
+    "clues": [
+      "This African animal is the tallest living land creature",
+      "Has a tongue that can be up to 20 inches long",
+      "Known for its long neck and spotted coat"
+    ],
+    "factoid": "No two giraffes have the same spot pattern, like human fingerprints."
+  },
+  {
+    "id": "qp-animals-008",
+    "category": "Animals",
+    "word": "ELEPHANT",
+    "clues": [
+      "This is the largest living land animal",
+      "Known for its incredible memory and strong social bonds",
+      "Uses its trunk for breathing, drinking, and grabbing objects"
+    ],
+    "factoid": "Elephants are the only animals that can't jump."
+  },
+  {
+    "id": "qp-animals-009",
+    "category": "Animals",
+    "word": "CHEETAH",
+    "clues": [
+      "This African cat is the fastest land animal on Earth",
+      "Can accelerate from 0 to 60 mph in just three seconds",
+      "Has distinctive black tear marks running down its face"
+    ],
+    "factoid": "Cheetahs can't roar — they chirp and purr like house cats."
+  },
+  {
+    "id": "qp-animals-010",
+    "category": "Animals",
+    "word": "GORILLA",
+    "clues": [
+      "This great ape shares about 98% of its DNA with humans",
+      "Lives in family groups led by a dominant silverback",
+      "Found in the forests and mountains of central Africa"
+    ],
+    "factoid": "Gorillas can learn sign language — Koko the gorilla knew over 1,000 signs."
+  },
+  {
+    "id": "qp-animals-011",
+    "category": "Animals",
+    "word": "CHAMELEON",
+    "clues": [
+      "This reptile is famous for changing the color of its skin",
+      "Has eyes that can move independently in different directions",
+      "Catches prey by shooting out its incredibly fast tongue"
+    ],
+    "factoid": "A chameleon's tongue can be twice the length of its body."
+  },
+  {
+    "id": "qp-animals-012",
+    "category": "Animals",
+    "word": "PANDA",
+    "clues": [
+      "This bear spends most of its day eating bamboo",
+      "One of the world's most beloved conservation symbols",
+      "Native to the mountain forests of central China"
+    ],
+    "factoid": "A panda eats up to 38 kilograms of bamboo every single day."
+  },
+  {
+    "id": "qp-animals-013",
+    "category": "Animals",
+    "word": "FLAMINGO",
+    "clues": [
+      "This bird is famous for standing on one leg",
+      "Gets its color from the food it eats",
+      "Known for its bright pink feathers and curved beak"
+    ],
+    "factoid": "Flamingos are born white and turn pink from eating shrimp and algae."
+  },
+  {
+    "id": "qp-animals-014",
+    "category": "Animals",
+    "word": "SHARK",
+    "clues": [
+      "This ocean predator has been around longer than dinosaurs",
+      "Can detect a single drop of blood from miles away",
+      "The great white variety is the most famous species"
+    ],
+    "factoid": "Sharks lose and regrow up to 30,000 teeth in their lifetime."
+  },
+  {
+    "id": "qp-animals-015",
+    "category": "Animals",
+    "word": "PARROT",
+    "clues": [
+      "This colorful bird can mimic human speech",
+      "Found mostly in tropical regions around the world",
+      "Some species can live to be over 80 years old"
+    ],
+    "factoid": "An African grey parrot named Alex could identify 50 objects and 7 colors."
+  },
+  {
+    "id": "qp-animals-016",
+    "category": "Animals",
+    "word": "LION",
+    "clues": [
+      "This big cat is known as the king of the jungle",
+      "Lives in groups called prides",
+      "The males are distinguished by their large mane"
+    ],
+    "factoid": "A lion's roar can be heard from 5 miles away."
+  },
+  {
+    "id": "qp-animals-017",
+    "category": "Animals",
+    "word": "TORTOISE",
+    "clues": [
+      "This slow-moving reptile carries its home on its back",
+      "Some species can live for over 150 years",
+      "The Galapagos variety inspired Darwin's theory of evolution"
+    ],
+    "factoid": "Jonathan the tortoise, born around 1832, is the oldest known living land animal."
+  },
+  {
+    "id": "qp-animals-018",
+    "category": "Animals",
+    "word": "WOLF",
+    "clues": [
+      "This wild canine hunts in coordinated packs",
+      "Communicates through howling that can carry for miles",
+      "The ancestor of all domestic dog breeds"
+    ],
+    "factoid": "Wolves can travel up to 30 miles in a single day while hunting."
+  },
+  {
+    "id": "qp-animals-019",
+    "category": "Animals",
+    "word": "JELLYFISH",
+    "clues": [
+      "This sea creature has no brain, heart, or bones",
+      "Some species glow in the dark with bioluminescence",
+      "Its tentacles deliver a painful sting"
+    ],
+    "factoid": "One species of jellyfish is biologically immortal — it can revert to its juvenile form."
+  },
+  {
+    "id": "qp-animals-020",
+    "category": "Animals",
+    "word": "POLAR BEAR",
+    "clues": [
+      "This Arctic predator is the largest land carnivore",
+      "Its fur appears white but is actually transparent",
+      "An excellent swimmer that hunts seals on sea ice"
+    ],
+    "factoid": "Polar bears have black skin under their white-looking fur to absorb heat."
+  },
+  {
+    "id": "qp-animals-021",
+    "category": "Animals",
+    "word": "SEAHORSE",
+    "clues": [
+      "This tiny ocean creature swims upright unlike any other fish",
+      "The male of the species carries and gives birth to the young",
+      "Has a prehensile tail it uses to grip coral and seagrass"
+    ],
+    "factoid": "Seahorses have no stomach — food passes through them so fast they must eat almost constantly."
+  },
+  {
+    "id": "qp-animals-022",
+    "category": "Animals",
+    "word": "LEOPARD",
+    "clues": [
+      "This big cat is known for dragging prey up into trees",
+      "Has a spotted coat that provides excellent camouflage",
+      "Found across Africa and Asia in many different habitats"
+    ],
+    "factoid": "Leopards can carry prey twice their own body weight up a tree."
+  },
+  {
+    "id": "qp-animals-023",
+    "category": "Animals",
+    "word": "SLOTH",
+    "clues": [
+      "This mammal is one of the slowest animals on Earth",
+      "Spends most of its life hanging upside down in trees",
+      "Algae grows on its fur giving it a greenish tint"
+    ],
+    "factoid": "Sloths only come down from their trees about once a week to go to the bathroom."
+  },
+  {
+    "id": "qp-animals-024",
+    "category": "Animals",
+    "word": "COBRA",
+    "clues": [
+      "This venomous snake is famous for spreading its hood when threatened",
+      "A favorite of snake charmers in South Asia",
+      "The king variety is the longest venomous snake in the world"
+    ],
+    "factoid": "King cobras can stand up tall enough to look an adult human in the eye."
+  },
+  {
+    "id": "qp-animals-025",
+    "category": "Animals",
+    "word": "ORANGUTAN",
+    "clues": [
+      "This great ape's name means 'person of the forest'",
+      "Known for its reddish-brown hair and incredible intelligence",
+      "Found only on the islands of Borneo and Sumatra"
+    ],
+    "factoid": "Orangutans share 97% of their DNA with humans and can use tools."
+  },
+  {
+    "id": "qp-animals-026",
+    "category": "Animals",
+    "word": "PLATYPUS",
+    "clues": [
+      "A mammal that lives near freshwater",
+      "It has a bill resembling a duck",
+      "One of only five species of egg-laying mammals"
+    ],
+    "factoid": "Male platypuses have venomous spurs on their hind legs that can cause excruciating pain in humans."
+  },
+  {
+    "id": "qp-animals-027",
+    "category": "Animals",
+    "word": "ARMADILLO",
+    "clues": [
+      "A small mammal found in the Americas",
+      "It digs burrows for shelter",
+      "Its body is covered in bony plates of armor"
+    ],
+    "factoid": "The nine-banded armadillo always gives birth to identical quadruplets from a single fertilized egg."
+  },
+  {
+    "id": "qp-animals-028",
+    "category": "Animals",
+    "word": "HIPPOPOTAMUS",
+    "clues": [
+      "A large herbivore that spends most of its day in water",
+      "It is native to sub-Saharan Africa",
+      "Its name comes from the Greek for river horse"
+    ],
+    "factoid": "Hippos secrete a natural red-tinted sunscreen substance from their skin, sometimes called blood sweat."
+  },
+  {
+    "id": "qp-animals-029",
+    "category": "Animals",
+    "word": "RHINOCEROS",
+    "clues": [
+      "A massive herbivore found in Africa and Asia",
+      "It has thick, folded skin",
+      "It has one or two horns made of keratin on its snout"
+    ],
+    "factoid": "A group of rhinoceroses is called a crash."
+  },
+  {
+    "id": "qp-animals-030",
+    "category": "Animals",
+    "word": "KANGAROO",
+    "clues": [
+      "A herbivore native to a southern continent",
+      "It carries its young in a pouch",
+      "It moves by hopping on powerful hind legs"
+    ],
+    "factoid": "Kangaroos cannot walk backward, which is why they appear on Australia's coat of arms symbolizing forward progress."
+  },
+  {
+    "id": "qp-animals-031",
+    "category": "Animals",
+    "word": "CROCODILE",
+    "clues": [
+      "A large reptile found in tropical regions",
+      "It is a powerful ambush predator in water",
+      "It has a V-shaped snout and visible teeth when its mouth is closed"
+    ],
+    "factoid": "Crocodiles swallow stones called gastroliths to help grind food in their stomachs and control buoyancy."
+  },
+  {
+    "id": "qp-animals-032",
+    "category": "Animals",
+    "word": "HEDGEHOG",
+    "clues": [
+      "A small nocturnal mammal found in Europe, Asia, and Africa",
+      "It eats insects and other invertebrates",
+      "It rolls into a spiny ball when threatened"
+    ],
+    "factoid": "Hedgehogs are naturally immune to many snake venoms, allowing them to eat venomous snakes without harm."
+  },
+  {
+    "id": "qp-animals-033",
+    "category": "Animals",
+    "word": "WOLVERINE",
+    "clues": [
+      "A solitary carnivore of northern forests and tundra",
+      "Despite its small size it is incredibly fierce",
+      "It is the largest land-dwelling member of the weasel family"
+    ],
+    "factoid": "Wolverines have been observed climbing nearly vertical cliff faces and have been tracked crossing mountain passes at over 4,000 meters."
+  },
+  {
+    "id": "qp-animals-034",
+    "category": "Animals",
+    "word": "PEACOCK",
+    "clues": [
+      "A bird known for its extravagant courtship display",
+      "It is native to South Asia",
+      "The male fans out iridescent tail feathers covered in eye-shaped patterns"
+    ],
+    "factoid": "Peacock tail feathers contain microscopic crystal-like structures that reflect different wavelengths of light, creating their iridescent colors."
+  },
+  {
+    "id": "qp-animals-035",
+    "category": "Animals",
+    "word": "BISON",
+    "clues": [
+      "A large grazing mammal that once roamed in enormous herds",
+      "It is the heaviest land animal in North America",
+      "It has a massive hump of muscle above its shoulders"
+    ],
+    "factoid": "Bison can run up to 65 kilometers per hour and can jump nearly two meters vertically from a standing position."
+  },
+  {
+    "id": "qp-animals-036",
+    "category": "Animals",
+    "word": "NARWHAL",
+    "clues": [
+      "A marine mammal found in Arctic waters",
+      "It is sometimes called the unicorn of the sea",
+      "It has a long spiral tusk that is actually an elongated tooth"
+    ],
+    "factoid": "The narwhal's tusk contains millions of nerve endings and is used as a sensory organ to detect changes in water temperature and salinity."
+  },
+  {
+    "id": "qp-animals-037",
+    "category": "Animals",
+    "word": "PELICAN",
+    "clues": [
+      "A large waterbird found on every continent except Antarctica",
+      "It dives or scoops to catch fish",
+      "It has an enormous expandable throat pouch"
+    ],
+    "factoid": "A pelican's pouch can hold up to 11 liters of water, roughly three times more than its stomach can hold."
+  },
+  {
+    "id": "qp-animals-038",
+    "category": "Animals",
+    "word": "MANTIS",
+    "clues": [
+      "An insect known for being a patient ambush predator",
+      "It can rotate its head nearly 180 degrees",
+      "Its front legs are adapted for grasping prey in a prayer-like pose"
+    ],
+    "factoid": "Praying mantises are the only insects known to have stereo vision, using two large compound eyes to triangulate distance with remarkable accuracy."
+  },
+  {
+    "id": "qp-animals-039",
+    "category": "Animals",
+    "word": "BADGER",
+    "clues": [
+      "A stocky burrowing mammal found across the Northern Hemisphere",
+      "It is nocturnal and extremely tenacious",
+      "It digs extensive underground tunnel networks called setts"
+    ],
+    "factoid": "Honey badgers have been observed using tools, including logs and stones, to reach food that is out of their normal reach."
+  },
+  {
+    "id": "qp-animals-040",
+    "category": "Animals",
+    "word": "OSPREY",
+    "clues": [
+      "A large raptor found on every continent except Antarctica",
+      "It hunts by plunging feet-first into water",
+      "It has reversible outer toes for gripping slippery fish"
+    ],
+    "factoid": "Ospreys have a fishing success rate of roughly 70 percent, making them one of the most efficient aerial hunters of fish."
+  },
+  {
+    "id": "qp-animals-041",
+    "category": "Animals",
+    "word": "MANATEE",
+    "clues": [
+      "A gentle marine mammal found in warm coastal waters and rivers",
+      "Sailors once mistook them for mythical sea creatures",
+      "They are sometimes called sea cows due to their grazing habits"
+    ],
+    "factoid": "Manatees constantly replace their teeth throughout their lives, with new molars growing in at the back and pushing older ones forward and out."
+  },
+  {
+    "id": "qp-animals-042",
+    "category": "Animals",
+    "word": "MEERKAT",
+    "clues": [
+      "A small mammal that lives in cooperative groups in arid regions",
+      "It stands upright on its hind legs to scan for danger",
+      "It is native to the Kalahari Desert of southern Africa"
+    ],
+    "factoid": "Meerkat pups are taught to eat scorpions by adult mentors who first remove the stinger before presenting the prey as a training exercise."
+  },
+  {
+    "id": "qp-animals-043",
+    "category": "Animals",
+    "word": "IGUANA",
+    "clues": [
+      "A large herbivorous reptile found in tropical regions",
+      "It is an excellent climber and often basks in trees",
+      "It has a row of spines running along its back and a dewlap under its chin"
+    ],
+    "factoid": "Marine iguanas in the Galapagos can shrink their skeletons by up to 20 percent in length during food shortages, then regrow when conditions improve."
+  },
+  {
+    "id": "qp-animals-044",
+    "category": "Animals",
+    "word": "ALBATROSS",
+    "clues": [
+      "A seabird that spends most of its life over open ocean",
+      "It has one of the largest wingspans of any living bird",
+      "It can glide for hours without flapping using a technique called dynamic soaring"
+    ],
+    "factoid": "Wandering albatrosses can fly up to 120,000 kilometers in a single year, effectively circling the globe multiple times."
+  },
+  {
+    "id": "qp-animals-045",
+    "category": "Animals",
+    "word": "PANGOLIN",
+    "clues": [
+      "A nocturnal mammal found in Asia and Africa",
+      "It is the most trafficked animal in the world",
+      "Its body is covered in overlapping keratin scales"
+    ],
+    "factoid": "Pangolins have no teeth and instead use a tongue that can extend up to 40 centimeters to capture ants and termites."
+  },
+  {
+    "id": "qp-animals-046",
+    "category": "Animals",
+    "word": "WOMBAT",
+    "clues": [
+      "A stocky burrowing marsupial native to Australia",
+      "It is herbivorous and primarily nocturnal",
+      "It produces cube-shaped droppings"
+    ],
+    "factoid": "Wombat droppings are cube-shaped due to the varying elasticity of their intestinal walls, and they use these cubes to mark territory without them rolling away."
+  },
+  {
+    "id": "qp-animals-047",
+    "category": "Animals",
+    "word": "HUMMINGBIRD",
+    "clues": [
+      "The smallest birds in the world, found only in the Americas",
+      "It can hover in mid-air and even fly backward",
+      "Its wings beat up to 80 times per second"
+    ],
+    "factoid": "Hummingbirds have the highest metabolic rate of any vertebrate and must consume more than their body weight in nectar every day to survive."
+  },
+  {
+    "id": "qp-animals-048",
+    "category": "Animals",
+    "word": "TAPIR",
+    "clues": [
+      "A herbivorous mammal found in Central and South America and Southeast Asia",
+      "It has a stocky body and short legs",
+      "It has a flexible prehensile snout used to grab leaves and fruit"
+    ],
+    "factoid": "Baby tapirs are born with white stripes and spots that act as camouflage on the forest floor, which they lose completely as adults."
+  },
+  {
+    "id": "qp-animals-049",
+    "category": "Animals",
+    "word": "AXOLOTL",
+    "clues": [
+      "An aquatic creature native to a single lake system in Mexico",
+      "It retains its juvenile aquatic features throughout its entire life",
+      "It has remarkable regenerative abilities, regrowing limbs and even parts of its brain"
+    ],
+    "factoid": "Axolotls can regenerate not only limbs but also their spinal cord, heart tissue, and portions of their brain with no scarring."
+  },
+  {
+    "id": "qp-animals-050",
+    "category": "Animals",
+    "word": "TOUCAN",
+    "clues": [
+      "A tropical bird found in Central and South American rainforests",
+      "It is known for its vivid coloring",
+      "It has an oversized, colorful bill that can be one-third of its body length"
+    ],
+    "factoid": "A toucan's large bill is honeycombed with air pockets, making it remarkably lightweight and also serving as a thermal radiator to regulate body temperature."
+  },
+  {
+    "id": "qp-animals-051",
+    "category": "Animals",
+    "word": "CAPYBARA",
+    "clues": [
+      "A social herbivore found near rivers and lakes in South America",
+      "It is closely related to guinea pigs",
+      "It is the largest living rodent in the world"
+    ],
+    "factoid": "Capybaras are semi-aquatic and can hold their breath underwater for up to five minutes to hide from predators."
+  },
+  {
+    "id": "qp-animals-052",
+    "category": "Animals",
+    "word": "CASSOWARY",
+    "clues": [
+      "A large flightless bird found in tropical forests of New Guinea and Australia",
+      "It has a bony helmet-like crest called a casque on its head",
+      "It can deliver powerful kicks with dagger-like claws on its inner toes"
+    ],
+    "factoid": "Cassowaries are considered the most dangerous bird in the world, capable of inflicting fatal injuries with their 12-centimeter inner claw."
+  },
+  {
+    "id": "qp-animals-053",
+    "category": "Animals",
+    "word": "PIRANHA",
+    "clues": [
+      "A freshwater fish native to South American rivers",
+      "It is an omnivore despite its fearsome reputation",
+      "It has razor-sharp interlocking teeth that can bite through bone"
+    ],
+    "factoid": "Piranhas bark. They produce distinct sounds using their swim bladder to communicate aggression and warnings to other fish."
+  },
+  {
+    "id": "qp-animals-054",
+    "category": "Animals",
+    "word": "LEMUR",
+    "clues": [
+      "A primate found only on one island off the coast of Africa",
+      "It is highly social and lives in groups called troops",
+      "It has large reflective eyes adapted for a mix of day and night activity"
+    ],
+    "factoid": "Ring-tailed lemurs engage in stink fights, rubbing their tails with scent glands and waving them at rivals during territorial disputes."
+  },
+  {
+    "id": "qp-animals-055",
+    "category": "Animals",
+    "word": "OTTER",
+    "clues": [
+      "A semi-aquatic mammal found on every continent except Australia and Antarctica",
+      "It is playful and known for sliding down riverbanks",
+      "Sea-dwelling species float on their backs and use rocks to crack open shellfish"
+    ],
+    "factoid": "Sea otters have the densest fur of any mammal, with up to one million hair follicles per square inch to insulate them in cold water."
+  },
+  {
+    "id": "qp-animals-056",
+    "category": "Animals",
+    "word": "MOOSE",
+    "clues": [
+      "The largest member of the deer family",
+      "It inhabits boreal and mixed forests in the Northern Hemisphere",
+      "Males grow massive flat palmate antlers that can span nearly two meters"
+    ],
+    "factoid": "Moose are strong swimmers and can dive up to six meters deep to feed on aquatic vegetation at the bottom of lakes."
+  },
+  {
+    "id": "qp-animals-057",
+    "category": "Animals",
+    "word": "COYOTE",
+    "clues": [
+      "A highly adaptable canine native to North America",
+      "It has thrived alongside human urban expansion",
+      "Its distinctive howls and yips are used to communicate across long distances"
+    ],
+    "factoid": "Coyotes have expanded their range dramatically over the past century, now inhabiting every US state and even thriving in major cities like Chicago and New York."
+  },
+  {
+    "id": "qp-animals-058",
+    "category": "Animals",
+    "word": "PORCUPINE",
+    "clues": [
+      "A large rodent found in the Americas, Europe, Asia, and Africa",
+      "It is primarily nocturnal and herbivorous",
+      "It defends itself with a coat of sharp barbed quills"
+    ],
+    "factoid": "Porcupine quills have antibiotic properties that help prevent infection if the animal accidentally impales itself with its own quills."
+  },
+  {
+    "id": "qp-animals-059",
+    "category": "Animals",
+    "word": "OCELOT",
+    "clues": [
+      "A small wild cat found in the Americas",
+      "It is nocturnal, solitary, and an agile climber",
+      "It has a spotted and striped coat that provides camouflage in dense vegetation"
+    ],
+    "factoid": "Salvador Dali kept a pet ocelot named Babou and was frequently photographed walking it on a leash through New York City."
+  },
+  {
+    "id": "qp-animals-060",
+    "category": "Animals",
+    "word": "KIWI",
+    "clues": [
+      "A flightless bird native to New Zealand",
+      "It is nocturnal and has poor eyesight",
+      "It has nostrils at the tip of its long bill, giving it an exceptional sense of smell"
+    ],
+    "factoid": "Kiwi eggs are enormous relative to the mother's body size, weighing up to 20 percent of her body weight, the highest egg-to-body ratio of any bird."
+  },
+  {
+    "id": "qp-animals-061",
+    "category": "Animals",
+    "word": "BARRACUDA",
+    "clues": [
+      "A large predatory fish found in tropical and subtropical oceans",
+      "It is known for its speed and aggressive hunting style",
+      "It has a long, torpedo-shaped body and prominent fang-like teeth"
+    ],
+    "factoid": "Great barracudas can accelerate to 58 kilometers per hour in short bursts, making them one of the fastest fish in the ocean."
+  },
+  {
+    "id": "qp-animals-062",
+    "category": "Animals",
+    "word": "MANDRILL",
+    "clues": [
+      "A primate found in the rainforests of central West Africa",
+      "It lives in large social groups called hordes",
+      "Males have brightly colored red and blue ridges on their face"
+    ],
+    "factoid": "The mandrill is the largest monkey in the world, with dominant males weighing up to 36 kilograms and displaying the most vivid coloring."
+  },
+  {
+    "id": "qp-animals-063",
+    "category": "Animals",
+    "word": "QUOKKA",
+    "clues": [
+      "A small marsupial found on islands off the coast of Western Australia",
+      "It has become famous on social media for appearing to smile in photographs",
+      "It is about the size of a house cat and hops like a tiny kangaroo"
+    ],
+    "factoid": "Quokkas can survive long periods without drinking water by extracting moisture from the plants they eat."
+  },
+  {
+    "id": "qp-animals-064",
+    "category": "Animals",
+    "word": "CONDOR",
+    "clues": [
+      "One of the largest flying birds in the world",
+      "It is a scavenger that feeds on carrion",
+      "The Andean species has a wingspan exceeding three meters"
+    ],
+    "factoid": "Andean condors can soar for over 170 kilometers without a single wing flap, riding thermal air currents to stay aloft for hours."
+  },
+  {
+    "id": "qp-animals-065",
+    "category": "Animals",
+    "word": "CHINCHILLA",
+    "clues": [
+      "A small rodent native to the Andes mountains of South America",
+      "It is crepuscular, most active at dawn and dusk",
+      "It has the densest fur of any land animal, with up to 20,000 hairs per square centimeter"
+    ],
+    "factoid": "Chinchillas bathe in volcanic dust rather than water because their fur is so dense that it would take forever to dry and could develop fungal infections."
+  },
+  {
+    "id": "qp-animals-066",
+    "category": "Animals",
+    "word": "KOMODO DRAGON",
+    "clues": [
+      "The largest living lizard, found on a handful of Indonesian islands",
+      "It is a powerful predator that can take down prey much larger than itself",
+      "Its bite delivers toxic bacteria and venom that prevent blood clotting"
+    ],
+    "factoid": "Komodo dragons can detect carrion from up to 9.5 kilometers away using their forked tongue to sample the air for scent particles."
+  },
+  {
+    "id": "qp-animals-067",
+    "category": "Animals",
+    "word": "CARIBOU",
+    "clues": [
+      "A large deer species adapted to Arctic and subarctic regions",
+      "Both males and females of this species grow antlers",
+      "It undertakes one of the longest land migrations of any terrestrial mammal"
+    ],
+    "factoid": "Caribou hooves change with the seasons, becoming spongy in summer for traction on soft tundra and hardening in winter to dig through ice and snow."
+  },
+  {
+    "id": "qp-animals-068",
+    "category": "Animals",
+    "word": "AARDVARK",
+    "clues": [
+      "A nocturnal mammal native to Africa",
+      "Its name comes from Afrikaans meaning earth pig",
+      "It has a long snout and an even longer sticky tongue used to raid insect mounds"
+    ],
+    "factoid": "The aardvark is the sole surviving member of its entire order, Tubulidentata, making it one of the most evolutionarily isolated mammals alive."
+  },
+  {
+    "id": "qp-animals-069",
+    "category": "Animals",
+    "word": "STINGRAY",
+    "clues": [
+      "A flat-bodied fish related to sharks that lives in coastal tropical waters",
+      "It spends much of its time buried in sandy ocean floors",
+      "It has a venomous barbed spine on its whip-like tail used for defense"
+    ],
+    "factoid": "Stingrays have special sensory organs called ampullae of Lorenzini that can detect the faint electrical signals produced by the muscles of hidden prey."
+  },
+  {
+    "id": "qp-animals-070",
+    "category": "Animals",
+    "word": "OKAPI",
+    "clues": [
+      "A reclusive herbivore found only in the dense rainforests of the Congo",
+      "It was not known to Western science until 1901",
+      "It has striped legs like a zebra but is actually the only living relative of the giraffe"
+    ],
+    "factoid": "An okapi's tongue is so long, about 35 centimeters, that it can use it to wash its own eyelids and clean the inside of its ears."
+  },
+  {
+    "id": "qp-animals-071",
+    "category": "Animals",
+    "word": "VULTURE",
+    "clues": [
+      "A large scavenging bird found on every continent except Australia and Antarctica",
+      "It plays a crucial ecological role by disposing of carrion",
+      "It has a bald head, an adaptation that helps keep it clean while feeding"
+    ],
+    "factoid": "Vulture stomach acid is extremely corrosive, up to 100 times stronger than human stomach acid, allowing them to safely digest anthrax, botulism, and cholera bacteria."
+  },
+  {
+    "id": "qp-animals-072",
+    "category": "Animals",
+    "word": "FERRET",
+    "clues": [
+      "A small domesticated carnivore descended from the European polecat",
+      "It is crepuscular, sleeping up to 18 hours a day",
+      "It has a long, flexible body that allows it to chase prey into burrows"
+    ],
+    "factoid": "Ferrets were domesticated over 2,500 years ago, originally used by humans to hunt rabbits by chasing them out of their warrens."
+  },
+  {
+    "id": "qp-animals-073",
+    "category": "Animals",
+    "word": "IBEX",
+    "clues": [
+      "A wild goat found in mountainous regions of Europe, Asia, and Africa",
+      "It is known for its incredible climbing abilities on near-vertical surfaces",
+      "Males have long curved ridged horns that can grow over one meter"
+    ],
+    "factoid": "Alpine ibex have been photographed scaling the near-vertical face of a dam in Italy to lick mineral salts from the stone surface."
+  },
+  {
+    "id": "qp-animals-074",
+    "category": "Animals",
+    "word": "SALAMANDER",
+    "clues": [
+      "An amphibian found in moist habitats across the Northern Hemisphere",
+      "It superficially resembles a lizard but has smooth moist skin without scales",
+      "Some species can regenerate lost limbs and even parts of their heart and eyes"
+    ],
+    "factoid": "The Chinese giant salamander is the largest amphibian in the world, reaching lengths of nearly two meters and weights exceeding 50 kilograms."
+  },
+  {
+    "id": "qp-animals-075",
+    "category": "Animals",
+    "word": "HYENA",
+    "clues": [
+      "A carnivore native to Africa and parts of Asia",
+      "Despite appearances it is more closely related to cats than dogs",
+      "It has one of the most powerful bites relative to body size of any mammal"
+    ],
+    "factoid": "Spotted hyenas live in complex matriarchal societies where every female outranks every male, and cubs inherit their mother's social status."
+  },
+  {
+    "id": "qp-animals-076",
+    "category": "Animals",
+    "word": "CARACAL",
+    "clues": [
+      "A medium-sized wild cat found across Africa, the Middle East, and Central Asia",
+      "It is known for its extraordinary leaping ability, catching birds mid-flight",
+      "It has long black-tufted ears that give it a distinctive silhouette"
+    ],
+    "factoid": "Caracals can leap up to three meters into the air and swat down multiple birds in a single jump using their remarkably fast paw strikes."
+  },
+  {
+    "id": "qp-animals-077",
+    "category": "Animals",
+    "word": "EMU",
+    "clues": [
+      "A large flightless bird native to Australia",
+      "It is the second tallest bird species in the world",
+      "It can sprint at speeds of nearly 50 kilometers per hour"
+    ],
+    "factoid": "Australia once declared a military operation called the Great Emu War in 1932, deploying soldiers with machine guns against emus that were destroying crops. The emus won."
+  },
+  {
+    "id": "qp-animals-078",
+    "category": "Animals",
+    "word": "ANTEATER",
+    "clues": [
+      "A mammal found in Central and South America",
+      "It has no teeth at all",
+      "It uses an extremely long sticky tongue to consume up to 35,000 insects per day"
+    ],
+    "factoid": "Giant anteaters have tongues that can extend over 60 centimeters and flick in and out up to 150 times per minute."
+  },
+  {
+    "id": "qp-animals-079",
+    "category": "Animals",
+    "word": "DUGONG",
+    "clues": [
+      "A marine mammal found in warm coastal waters of the Indo-Pacific",
+      "It is a gentle herbivore that grazes on seagrass meadows",
+      "It is closely related to the manatee but has a fluked, dolphin-like tail"
+    ],
+    "factoid": "Dugongs are thought to have inspired ancient sailor legends of mermaids and are the only strictly marine herbivorous mammal."
+  },
+  {
+    "id": "qp-animals-080",
+    "category": "Animals",
+    "word": "PUFFIN",
+    "clues": [
+      "A small seabird that nests in burrows on coastal cliffs in the North Atlantic",
+      "It is an excellent swimmer, using its wings to fly underwater",
+      "It has a colorful triangular bill that becomes vivid during breeding season"
+    ],
+    "factoid": "Puffins can carry an average of ten fish at a time in their beaks, lining them up crosswise using their tongue and rough palate to hold them in place."
+  },
+  {
+    "id": "qp-animals-081",
+    "category": "Animals",
+    "word": "JACKAL",
+    "clues": [
+      "A medium-sized canine found in Africa, Asia, and southeastern Europe",
+      "It is opportunistic, eating everything from fruit to carrion",
+      "It forms lifelong monogamous pairs that hunt and raise pups together"
+    ],
+    "factoid": "In ancient Egyptian mythology, the god Anubis was depicted with the head of a jackal and served as the guardian of the dead and embalming."
+  },
+  {
+    "id": "qp-animals-082",
+    "category": "Animals",
+    "word": "NEWT",
+    "clues": [
+      "A small semiaquatic amphibian found across the Northern Hemisphere",
+      "It returns to water to breed but spends much of its adult life on land",
+      "Some species have brightly colored bellies as a warning of toxicity"
+    ],
+    "factoid": "The rough-skinned newt produces tetrodotoxin, the same deadly poison found in pufferfish, making it one of the most toxic animals in North America."
+  },
+  {
+    "id": "qp-animals-083",
+    "category": "Animals",
+    "word": "FOSSA",
+    "clues": [
+      "A carnivorous mammal endemic to Madagascar",
+      "It is the largest predator on its island",
+      "It resembles a mix between a cat and a mongoose and hunts lemurs in the canopy"
+    ],
+    "factoid": "The fossa is the only predator on Madagascar large enough to hunt adult lemurs, and despite looking cat-like, it is most closely related to the mongoose family."
+  },
+  {
+    "id": "qp-animals-084",
+    "category": "Animals",
+    "word": "BUFFALO",
+    "clues": [
+      "A massive bovine found in Africa and Asia",
+      "African herds can number in the thousands",
+      "It is considered one of the most dangerous large animals on its continent"
+    ],
+    "factoid": "Cape buffalo have been observed holding grudges, returning to attack specific lions or hunters that previously threatened them, sometimes years later."
+  },
+  {
+    "id": "qp-animals-085",
+    "category": "Animals",
+    "word": "WALLABY",
+    "clues": [
+      "A marsupial native to Australia and New Guinea",
+      "It is smaller than its well-known hopping relative",
+      "Some species thrive in rocky terrain and are called rock-dwellers"
+    ],
+    "factoid": "Wallabies have been found living wild in parts of England, France, and Hawaii after escaping from zoos and private collections decades ago."
+  },
+  {
+    "id": "qp-animals-086",
+    "category": "Animals",
+    "word": "HARPY EAGLE",
+    "clues": [
+      "One of the most powerful raptors in the world, found in Central and South American rainforests",
+      "Its talons are as large as a grizzly bear's claws",
+      "It hunts monkeys and sloths from the forest canopy"
+    ],
+    "factoid": "Harpy eagle talons can exert over 42 kilograms of crushing force per square centimeter, enough to shatter the bones of their prey."
+  },
+  {
+    "id": "qp-animals-087",
+    "category": "Animals",
+    "word": "MONGOOSE",
+    "clues": [
+      "A small carnivorous mammal found in Asia, Africa, and southern Europe",
+      "It is famous for its ability to fight venomous snakes",
+      "It has lightning-fast reflexes and a partial immunity to certain venoms"
+    ],
+    "factoid": "Mongooses have mutated acetylcholine receptors that prevent neurotoxic snake venom from binding, giving them a biochemical advantage in combat with cobras."
+  },
+  {
+    "id": "qp-animals-088",
+    "category": "Animals",
+    "word": "MARLIN",
+    "clues": [
+      "A large, fast ocean fish found in tropical and temperate waters",
+      "It was made famous by a Hemingway novel about an old fisherman",
+      "It has a distinctive long, spear-like upper jaw"
+    ],
+    "factoid": "Blue marlins can reach speeds of over 110 kilometers per hour, making them one of the fastest fish in the ocean."
+  },
+  {
+    "id": "qp-animals-089",
+    "category": "Animals",
+    "word": "LYREBIRD",
+    "clues": [
+      "A ground-dwelling bird native to Australian rainforests",
+      "It has one of the most complex vocal abilities in the animal kingdom",
+      "It can perfectly mimic chainsaws, camera shutters, and other bird species"
+    ],
+    "factoid": "Lyrebirds can mimic virtually any sound they hear, including car alarms and construction equipment, and they incorporate these sounds into elaborate courtship songs."
+  },
+  {
+    "id": "qp-animals-090",
+    "category": "Animals",
+    "word": "CAMEL",
+    "clues": [
+      "A large domesticated mammal adapted to hot arid environments",
+      "It has been used as a beast of burden for thousands of years",
+      "It stores fat in one or two distinctive humps on its back"
+    ],
+    "factoid": "Camels can drink up to 200 liters of water in just three minutes and their red blood cells are oval-shaped to flow smoothly even when dehydrated."
+  },
+  {
+    "id": "qp-animals-091",
+    "category": "Animals",
+    "word": "NUMBAT",
+    "clues": [
+      "A small marsupial found only in parts of Western Australia",
+      "It is one of the few marsupials that is active during the day",
+      "It has a long sticky tongue and feeds exclusively on termites"
+    ],
+    "factoid": "Numbats eat up to 20,000 termites per day and have more teeth than any other land marsupial, though they rarely use them since they swallow termites whole."
+  },
+  {
+    "id": "qp-animals-092",
+    "category": "Animals",
+    "word": "SHOEBILL",
+    "clues": [
+      "A tall wading bird found in the swamps of East Africa",
+      "It stands motionless for long periods before striking at prey",
+      "It has an enormous shoe-shaped bill that can decapitate large fish"
+    ],
+    "factoid": "Shoebills are known for their terrifying stare and statue-like patience, standing motionless for hours before lunging with explosive speed to catch lungfish."
+  },
+  {
+    "id": "qp-animals-093",
+    "category": "Animals",
+    "word": "JAGUAR",
+    "clues": [
+      "The largest cat in the Americas",
+      "It is a powerful swimmer and often hunts along riverbanks",
+      "It has the strongest bite relative to size of any big cat, capable of piercing turtle shells"
+    ],
+    "factoid": "Jaguars kill differently from other big cats, biting directly through the skull and into the brain of their prey rather than suffocating with a throat bite."
+  },
+  {
+    "id": "qp-animals-094",
+    "category": "Animals",
+    "word": "TARSIER",
+    "clues": [
+      "A tiny primate found in the forests of Southeast Asia",
+      "It is entirely nocturnal with enormous forward-facing eyes",
+      "Each of its eyes is as large as its brain"
+    ],
+    "factoid": "Tarsiers are the only fully carnivorous primates, eating insects, lizards, and even small birds, and they can rotate their heads nearly 180 degrees like an owl."
+  },
+  {
+    "id": "qp-animals-095",
+    "category": "Animals",
+    "word": "SAWFISH",
+    "clues": [
+      "A critically endangered ray found in tropical coastal waters",
+      "It is related to sharks and breathes through gills on its underside",
+      "It has a long flat snout edged with tooth-like projections resembling a carpentry tool"
+    ],
+    "factoid": "Sawfish use their saw-like rostrum to slash through schools of fish with side-to-side swipes, stunning or impaling prey before eating them."
+  },
+  {
+    "id": "qp-animals-096",
+    "category": "Animals",
+    "word": "SNOW LEOPARD",
+    "clues": [
+      "A large solitary cat adapted to high-altitude mountain ranges in Central Asia",
+      "It is sometimes called the ghost of the mountains due to how rarely it is seen",
+      "It has a thick tail nearly as long as its body, used for balance and warmth"
+    ],
+    "factoid": "Snow leopards cannot roar despite being big cats because they lack the specialized larynx structure found in lions, tigers, and jaguars."
+  },
+  {
+    "id": "qp-animals-097",
+    "category": "Animals",
+    "word": "QUETZAL",
+    "clues": [
+      "A brilliantly colored bird found in the cloud forests of Central America",
+      "It was considered sacred by the ancient Maya and Aztec civilizations",
+      "Males have iridescent green tail feathers that can reach one meter in length"
+    ],
+    "factoid": "The resplendent quetzal was so revered by the Aztecs that killing one was a capital crime, and its feathers were used as currency."
+  },
+  {
+    "id": "qp-animals-098",
+    "category": "Animals",
+    "word": "KAKAPO",
+    "clues": [
+      "A large flightless parrot native to New Zealand",
+      "It is nocturnal and the heaviest parrot species in the world",
+      "Fewer than 250 individuals remain, making it critically endangered"
+    ],
+    "factoid": "Kakapos produce a distinctive booming call that can be heard up to five kilometers away, and they are the only flightless parrot and the only nocturnal parrot in the world."
+  },
+  {
+    "id": "qp-animals-099",
+    "category": "Animals",
+    "word": "AYE-AYE",
+    "clues": [
+      "A nocturnal primate found only in Madagascar",
+      "It taps on trees and listens for insect larvae inside",
+      "It has a uniquely thin elongated middle finger used to extract grubs from wood"
+    ],
+    "factoid": "The aye-aye is the only primate known to use echolocation-like tapping to find food, and many Malagasy people consider seeing one to be an omen of death."
+  },
+  {
+    "id": "qp-animals-100",
+    "category": "Animals",
+    "word": "BINTURONG",
+    "clues": [
+      "A large nocturnal mammal found in the forests of Southeast Asia",
+      "It is one of only two carnivores with a fully prehensile tail",
+      "It is sometimes called a bearcat despite being related to neither bears nor cats"
+    ],
+    "factoid": "Binturongs smell remarkably like buttered popcorn due to a chemical compound called 2-acetyl-1-pyrroline in their urine, the same compound that gives popcorn its scent."
+  },
+  {
+    "id": "qp-animals-101",
+    "category": "Animals",
+    "word": "CORGI",
+    "clues": [
+      "A small herding dog originally bred for cattle",
+      "This breed is famously associated with British royalty",
+      "Queen Elizabeth II owned more than 30 of these during her lifetime"
+    ],
+    "factoid": "Corgis were originally bred to herd cattle by nipping at their heels, and their low stature helped them avoid kicks."
+  },
+  {
+    "id": "qp-animals-102",
+    "category": "Animals",
+    "word": "POODLE",
+    "clues": [
+      "One of the most intelligent dog breeds in the world",
+      "This breed comes in standard, miniature, and toy sizes",
+      "Despite its association with France, it originated in Germany as a water retriever"
+    ],
+    "factoid": "The elaborate grooming style was originally functional — pom-poms of fur were left around joints to protect them in cold water."
+  },
+  {
+    "id": "qp-animals-103",
+    "category": "Animals",
+    "word": "LABRADOR",
+    "clues": [
+      "The most popular dog breed in America for over 30 years",
+      "This breed comes in chocolate, yellow, and black",
+      "Despite its name, it actually originated in Newfoundland, not the Canadian province it is named for"
+    ],
+    "factoid": "Labradors have a water-resistant double coat and webbed toes, making them exceptional swimmers."
+  },
+  {
+    "id": "qp-animals-104",
+    "category": "Animals",
+    "word": "HUSKY",
+    "clues": [
+      "A working dog bred for cold climates",
+      "Known for striking blue eyes and a thick double coat",
+      "This breed was used to pull sleds across Arctic terrain"
+    ],
+    "factoid": "In 1925, a relay of sled dog teams including Huskies delivered diphtheria antitoxin to Nome, Alaska, inspiring the Iditarod race."
+  },
+  {
+    "id": "qp-animals-105",
+    "category": "Animals",
+    "word": "SIAMESE",
+    "clues": [
+      "One of the oldest recognized cat breeds in the world",
+      "Known for a distinctive color-point coat pattern",
+      "This breed originated in the kingdom now known as Thailand"
+    ],
+    "factoid": "Siamese kittens are born completely white and develop their darker points as they grow, because the color enzyme is heat-sensitive."
+  },
+  {
+    "id": "qp-animals-106",
+    "category": "Animals",
+    "word": "PERSIAN",
+    "clues": [
+      "A long-haired cat breed known for a calm temperament",
+      "This breed has a distinctively flat face and round eyes",
+      "It shares its name with a historic Middle Eastern empire"
+    ],
+    "factoid": "Persians require daily grooming because their long fur can develop mats within just 24 hours."
+  },
+  {
+    "id": "qp-animals-107",
+    "category": "Animals",
+    "word": "BENGAL",
+    "clues": [
+      "A domestic cat with a wild appearance",
+      "This breed has a distinctive spotted or marbled coat",
+      "It was created by crossing domestic cats with the Asian leopard cat"
+    ],
+    "factoid": "Bengals are one of the few domestic cat breeds that genuinely enjoy playing in water."
+  },
+  {
+    "id": "qp-animals-108",
+    "category": "Animals",
+    "word": "GOLDFISH",
+    "clues": [
+      "One of the most common first pets for children",
+      "This aquatic pet was first domesticated over a thousand years ago in East Asia",
+      "Contrary to myth, its memory lasts months, not seconds"
+    ],
+    "factoid": "Goldfish can distinguish between different human faces and can be trained to push levers for food."
+  },
+  {
+    "id": "qp-animals-109",
+    "category": "Animals",
+    "word": "COCKATIEL",
+    "clues": [
+      "A popular pet bird native to Australia",
+      "This bird is known for its expressive crest feathers",
+      "It is the smallest member of the cockatoo family"
+    ],
+    "factoid": "Cockatiels can learn to whistle entire songs and some can mimic speech, though males are generally better vocalists."
+  },
+  {
+    "id": "qp-animals-110",
+    "category": "Animals",
+    "word": "BEAGLE",
+    "clues": [
+      "A small to medium scent hound with a merry personality",
+      "This breed is frequently used in airport security for detecting contraband food",
+      "Snoopy from Peanuts is this type of dog"
+    ],
+    "factoid": "Beagles have approximately 220 million scent receptors, compared to about 5 million in humans."
+  },
+  {
+    "id": "qp-animals-111",
+    "category": "Animals",
+    "word": "BULLDOG",
+    "clues": [
+      "A muscular, stocky breed with a wrinkled face",
+      "This breed is the mascot of many universities and the U.S. Marines",
+      "Originally bred for bull-baiting in 13th-century England"
+    ],
+    "factoid": "Most Bulldogs cannot swim due to their heavy, front-loaded bodies, and many are born via cesarean section because of their large heads."
+  },
+  {
+    "id": "qp-animals-112",
+    "category": "Animals",
+    "word": "DACHSHUND",
+    "clues": [
+      "A short-legged, long-bodied hound breed",
+      "This breed was originally developed to hunt burrowing animals",
+      "Its German name translates to 'badger dog'"
+    ],
+    "factoid": "During World War I, Dachshunds were used in propaganda against Germany, causing a temporary decline in their American popularity."
+  },
+  {
+    "id": "qp-animals-113",
+    "category": "Animals",
+    "word": "RAGDOLL",
+    "clues": [
+      "A large, gentle cat breed known for going limp when picked up",
+      "This breed has striking blue eyes and a semi-long coat",
+      "It was developed in California in the 1960s by breeder Ann Baker"
+    ],
+    "factoid": "Ragdolls are one of the largest domestic cat breeds, with males often weighing over 20 pounds."
+  },
+  {
+    "id": "qp-animals-114",
+    "category": "Animals",
+    "word": "BETTA",
+    "clues": [
+      "A vibrant freshwater fish popular in small tanks",
+      "Males of this species are known for extreme aggression toward each other",
+      "Also called the Siamese fighting fish"
+    ],
+    "factoid": "Bettas can breathe atmospheric air using a special organ called a labyrinth, allowing them to survive in low-oxygen water."
+  },
+  {
+    "id": "qp-animals-115",
+    "category": "Animals",
+    "word": "DALMATIAN",
+    "clues": [
+      "A medium-large dog breed known for a unique coat pattern",
+      "This breed has been associated with firehouses since the 1800s",
+      "Puppies of this breed are born completely white"
+    ],
+    "factoid": "Dalmatians are the only dog breed that can get gout, because they metabolize uric acid differently from other dogs."
+  },
+  {
+    "id": "qp-animals-116",
+    "category": "Animals",
+    "word": "CHIHUAHUA",
+    "clues": [
+      "The smallest recognized dog breed in the world",
+      "Named after a Mexican state",
+      "This breed can have either a smooth or long coat and often trembles when excited or cold"
+    ],
+    "factoid": "Chihuahuas have the largest brain-to-body ratio of any dog breed and are born with a soft spot on their skull called a molera."
+  },
+  {
+    "id": "qp-animals-117",
+    "category": "Animals",
+    "word": "MAINE COON",
+    "clues": [
+      "One of the largest domestic cat breeds",
+      "This breed is nicknamed the 'gentle giant' of cats",
+      "Named after a U.S. state, it is well-adapted to harsh winters"
+    ],
+    "factoid": "Maine Coons are polydactyl more often than other breeds — some have been born with up to seven toes on each paw."
+  },
+  {
+    "id": "qp-animals-118",
+    "category": "Animals",
+    "word": "ROTTWEILER",
+    "clues": [
+      "A powerful working dog originally used to pull butchers' carts",
+      "This breed is known for its black and tan markings",
+      "Named after a town in southern Germany"
+    ],
+    "factoid": "Rottweilers are descended from Roman drover dogs and were nearly extinct by the 1800s before being revived as police dogs."
+  },
+  {
+    "id": "qp-animals-119",
+    "category": "Animals",
+    "word": "BUDGERIGAR",
+    "clues": [
+      "The most popular pet bird in the world",
+      "Native to the Australian outback",
+      "Commonly known by a shorter nickname, this small parrot comes in many color mutations"
+    ],
+    "factoid": "A budgerigar named Puck holds the Guinness World Record for the largest vocabulary of any bird, with 1,728 words."
+  },
+  {
+    "id": "qp-animals-120",
+    "category": "Animals",
+    "word": "BOXER",
+    "clues": [
+      "A medium to large, muscular dog with a square jaw",
+      "This breed is known for standing on its hind legs and 'sparring' during play",
+      "Originally bred in Germany from the Bullenbeisser and English Bulldog"
+    ],
+    "factoid": "Boxers are one of the most commonly used breeds for guide dog work and were among the first breeds trained as police dogs in Germany."
+  },
+  {
+    "id": "qp-animals-121",
+    "category": "Animals",
+    "word": "SPHYNX",
+    "clues": [
+      "A cat breed known for an unusual physical trait",
+      "This breed is not truly bald — it has a fine peach-fuzz coat",
+      "It shares its name with a famous Egyptian monument"
+    ],
+    "factoid": "Sphynx cats have a higher body temperature than other cats and need to eat more to maintain their metabolism without insulating fur."
+  },
+  {
+    "id": "qp-animals-122",
+    "category": "Animals",
+    "word": "SHIBA INU",
+    "clues": [
+      "A small, agile Japanese dog breed",
+      "This breed became an internet sensation as the face of a famous meme",
+      "Its name roughly translates to 'brushwood dog' in Japanese"
+    ],
+    "factoid": "Shiba Inus are known for the 'Shiba scream,' a distinctive high-pitched vocalization they make when excited or unhappy."
+  },
+  {
+    "id": "qp-animals-123",
+    "category": "Animals",
+    "word": "HAMSTER",
+    "clues": [
+      "A small rodent commonly kept as a pocket pet",
+      "This animal is known for stuffing food into its cheek pouches",
+      "The Syrian variety is the most popular pet species of this animal"
+    ],
+    "factoid": "Nearly all pet Syrian hamsters are descended from a single litter captured near Aleppo, Syria in 1930."
+  },
+  {
+    "id": "qp-animals-124",
+    "category": "Animals",
+    "word": "DOBERMAN",
+    "clues": [
+      "A sleek, athletic guard dog breed",
+      "This breed was created by a German tax collector who wanted a protection dog",
+      "Known for its wedge-shaped head and cropped ears in some countries"
+    ],
+    "factoid": "Karl Friedrich Louis Dobermann, the breed's creator, also worked as a dog catcher and had access to many breeds for his breeding program."
+  },
+  {
+    "id": "qp-animals-125",
+    "category": "Animals",
+    "word": "ABYSSINIAN",
+    "clues": [
+      "One of the oldest known cat breeds",
+      "This breed has a distinctive ticked tabby coat with bands of color on each hair",
+      "Named after the former name of Ethiopia, though it likely originated in Southeast Asia"
+    ],
+    "factoid": "Abyssinians are sometimes called 'Aby-grabbys' because of their tendency to pick up and carry small objects."
+  },
+  {
+    "id": "qp-animals-126",
+    "category": "Animals",
+    "word": "GOLDEN RETRIEVER",
+    "clues": [
+      "One of America's most beloved family dogs",
+      "This breed was originally developed in Scotland for retrieving waterfowl",
+      "Known for its luscious, water-repellent coat in shades from light cream to deep amber"
+    ],
+    "factoid": "Golden Retrievers have such gentle mouths they can carry a raw egg without breaking it — a trait bred for retrieving game birds undamaged."
+  },
+  {
+    "id": "qp-animals-127",
+    "category": "Animals",
+    "word": "PARAKEET",
+    "clues": [
+      "A small, colorful pet bird that can learn to talk",
+      "This is actually a general term for many species of small to medium parrots",
+      "The most common pet variety is green and yellow with black wing markings"
+    ],
+    "factoid": "Parakeets can learn vocabularies of hundreds of words and some can even learn to count and identify colors."
+  },
+  {
+    "id": "qp-animals-128",
+    "category": "Animals",
+    "word": "POMERANIAN",
+    "clues": [
+      "A tiny, fluffy toy breed with a fox-like face",
+      "This breed descends from large Arctic sled dogs",
+      "Named after a historical region along the Baltic Sea coast"
+    ],
+    "factoid": "Two Pomeranians were among the three dogs that survived the sinking of the Titanic."
+  },
+  {
+    "id": "qp-animals-129",
+    "category": "Animals",
+    "word": "SCOTTISH FOLD",
+    "clues": [
+      "A cat breed known for a distinctive ear shape",
+      "This breed's signature trait is caused by a cartilage gene mutation",
+      "All cats of this breed trace their ancestry to a barn cat named Susie found in 1961"
+    ],
+    "factoid": "Taylor Swift owns two Scottish Folds, helping to popularize the breed worldwide."
+  },
+  {
+    "id": "qp-animals-130",
+    "category": "Animals",
+    "word": "GERMAN SHEPHERD",
+    "clues": [
+      "One of the most widely used police and military dog breeds",
+      "This breed is highly intelligent and was originally a herding dog",
+      "Rin Tin Tin, a famous Hollywood star, was this breed"
+    ],
+    "factoid": "German Shepherds were renamed 'Alsatians' in the UK after World War I to avoid anti-German sentiment."
+  },
+  {
+    "id": "qp-animals-132",
+    "category": "Animals",
+    "word": "GREAT DANE",
+    "clues": [
+      "One of the tallest dog breeds in the world",
+      "Despite its name, this breed was developed in Germany, not Denmark",
+      "Scooby-Doo is this breed of dog"
+    ],
+    "factoid": "A Great Dane named Zeus holds the record for the tallest dog ever, standing 44 inches at the shoulder."
+  },
+  {
+    "id": "qp-animals-133",
+    "category": "Animals",
+    "word": "RUSSIAN BLUE",
+    "clues": [
+      "A cat breed known for its plush, silvery coat",
+      "This breed has vivid green eyes and a gentle, shy temperament",
+      "Legend says this breed was favored by Russian czars"
+    ],
+    "factoid": "Russian Blues produce less of the Fel d 1 protein, making them more tolerable for some people with cat allergies."
+  },
+  {
+    "id": "qp-animals-135",
+    "category": "Animals",
+    "word": "PEKINGESE",
+    "clues": [
+      "A toy dog breed with a lion-like mane",
+      "This breed was sacred in ancient Chinese imperial courts",
+      "Commoners were once required to bow to this breed in its country of origin"
+    ],
+    "factoid": "A Pekingese named Sun Yat-sen survived the sinking of the Titanic, rescued by its owner Henry Sleeper Harper."
+  },
+  {
+    "id": "qp-animals-136",
+    "category": "Animals",
+    "word": "BIRMAN",
+    "clues": [
+      "A long-haired, color-pointed cat breed",
+      "This breed is distinguished by white 'gloves' on all four paws",
+      "Legend associates this breed with temple priests in Burma"
+    ],
+    "factoid": "The entire European Birman population was nearly wiped out in World War II, reduced to a single breeding pair."
+  },
+  {
+    "id": "qp-animals-137",
+    "category": "Animals",
+    "word": "AKITA",
+    "clues": [
+      "A large, powerful dog breed from northern Japan",
+      "This breed is a national monument in its home country",
+      "The most famous one waited at a train station for its deceased owner for nearly 10 years"
+    ],
+    "factoid": "Hachiko, the famous loyal Akita, has a bronze statue at Shibuya Station in Tokyo that is a popular meeting spot."
+  },
+  {
+    "id": "qp-animals-138",
+    "category": "Animals",
+    "word": "LOVEBIRD",
+    "clues": [
+      "A small, colorful parrot species kept as a pet",
+      "These birds are known for forming strong pair bonds",
+      "Native to Africa, they are named for their affectionate behavior with mates"
+    ],
+    "factoid": "Despite their name, lovebirds can be quite aggressive and territorial, especially females during breeding season."
+  },
+  {
+    "id": "qp-animals-139",
+    "category": "Animals",
+    "word": "WHIPPET",
+    "clues": [
+      "A medium-sized sighthound known for incredible speed",
+      "This breed is sometimes called the 'poor man's racehorse'",
+      "It resembles a smaller version of the Greyhound"
+    ],
+    "factoid": "Whippets can reach speeds of 35 mph, making them the fastest dog breed of their size."
+  },
+  {
+    "id": "qp-animals-140",
+    "category": "Animals",
+    "word": "MANX",
+    "clues": [
+      "A cat breed known for a distinctive physical absence",
+      "This breed comes from an island in the Irish Sea",
+      "Many individuals of this breed lack a tail entirely"
+    ],
+    "factoid": "The Manx taillessness is caused by a dominant gene mutation, and the breed has existed on the Isle of Man for centuries."
+  },
+  {
+    "id": "qp-animals-141",
+    "category": "Animals",
+    "word": "BRITTANY",
+    "clues": [
+      "A versatile sporting dog breed popular with hunters",
+      "This breed is named after a region in northwestern France",
+      "Despite once being called a spaniel, it hunts more like a pointer or setter"
+    ],
+    "factoid": "Brittanys are born with either a naturally short tail or no tail at all, unlike most spaniels."
+  },
+  {
+    "id": "qp-animals-142",
+    "category": "Animals",
+    "word": "SAVANNAH",
+    "clues": [
+      "A tall, exotic-looking domestic cat breed",
+      "This breed was created by crossing a domestic cat with an African wild cat",
+      "First generation individuals can weigh up to 25 pounds and are the tallest domestic cats"
+    ],
+    "factoid": "Savannah cats can jump up to 8 feet in the air and many enjoy playing fetch and walking on leashes."
+  },
+  {
+    "id": "qp-animals-143",
+    "category": "Animals",
+    "word": "WEIMARANER",
+    "clues": [
+      "A sleek, gray sporting dog nicknamed the 'Gray Ghost'",
+      "This breed was originally developed for hunting large game like boar and deer",
+      "Named after a German grand ducal court"
+    ],
+    "factoid": "William Wegman made this breed famous through his art photography, dressing them in human clothing and costumes."
+  },
+  {
+    "id": "qp-animals-144",
+    "category": "Animals",
+    "word": "GUINEA PIG",
+    "clues": [
+      "A social, vocal rodent pet from South America",
+      "This animal is neither from the country in its name nor related to pigs",
+      "It communicates with a distinctive 'wheeking' sound when excited"
+    ],
+    "factoid": "Guinea pigs cannot produce their own vitamin C, just like humans, and must get it from their diet."
+  },
+  {
+    "id": "qp-animals-145",
+    "category": "Animals",
+    "word": "BASENJI",
+    "clues": [
+      "An ancient dog breed from Central Africa",
+      "This breed is known as the 'barkless dog' though it can yodel",
+      "It grooms itself like a cat and has very little doggy odor"
+    ],
+    "factoid": "Basenjis are one of the most ancient dog breeds, depicted in drawings in Egyptian tombs dating back thousands of years."
+  },
+  {
+    "id": "qp-animals-146",
+    "category": "Animals",
+    "word": "NORWEGIAN FOREST",
+    "clues": [
+      "A large, fluffy cat breed built for cold Scandinavian winters",
+      "This breed appears in Norse mythology as the cats that pulled Freya's chariot",
+      "It has a distinctive waterproof double coat and tufted ears"
+    ],
+    "factoid": "Norwegian Forest Cats are excellent climbers and are one of the few cat breeds that can descend trees headfirst."
+  },
+  {
+    "id": "qp-animals-147",
+    "category": "Animals",
+    "word": "BORDER COLLIE",
+    "clues": [
+      "Widely considered the most intelligent of all dog breeds",
+      "This breed is the world's premier sheep herding dog",
+      "Named for the region between England and Scotland"
+    ],
+    "factoid": "A Border Collie named Chaser learned the names of over 1,000 objects, demonstrating reasoning abilities comparable to a toddler."
+  },
+  {
+    "id": "qp-animals-148",
+    "category": "Animals",
+    "word": "MACAW",
+    "clues": [
+      "A large, brightly colored parrot from Central and South America",
+      "This bird can live 50 to 80 years in captivity",
+      "The hyacinth variety is the largest parrot species in the world"
+    ],
+    "factoid": "Macaws have a bite force strong enough to crack a coconut shell and can fly at speeds up to 35 mph."
+  },
+  {
+    "id": "qp-animals-149",
+    "category": "Animals",
+    "word": "VIZSLA",
+    "clues": [
+      "A lean, athletic Hungarian sporting dog",
+      "This breed is known as the 'Velcro dog' for its intense attachment to its owner",
+      "It has a distinctive golden-rust colored coat and was nearly extinct after World War II"
+    ],
+    "factoid": "Vizslas are one of the few breeds that can earn championships in all five AKC sporting categories."
+  },
+  {
+    "id": "qp-animals-150",
+    "category": "Animals",
+    "word": "BURMESE",
+    "clues": [
+      "A sleek, muscular cat breed with a satin-like coat",
+      "This breed is surprisingly heavy for its size, sometimes called a 'brick wrapped in silk'",
+      "Nearly all modern individuals trace back to a single cat named Wong Mau from Myanmar"
+    ],
+    "factoid": "Burmese cats are known for being exceptionally people-oriented and will often follow their owners from room to room like dogs."
+  },
+  {
+    "id": "qp-animals-151",
+    "category": "Animals",
+    "word": "CAVALIER",
+    "clues": [
+      "A gentle toy spaniel breed beloved as a companion dog",
+      "This breed is named after supporters of King Charles I of England",
+      "It was a favorite of British aristocracy and appears in many Renaissance paintings"
+    ],
+    "factoid": "King Charles II was so devoted to this breed that he issued a decree allowing them in any public place, including Parliament."
+  },
+  {
+    "id": "qp-animals-153",
+    "category": "Animals",
+    "word": "SAMOYED",
+    "clues": [
+      "A fluffy white dog breed with a perpetual smile",
+      "This breed was developed by nomadic reindeer herders in Siberia",
+      "Its characteristic upturned mouth prevents drooling and icicle formation"
+    ],
+    "factoid": "Samoyed fur is hypoallergenic and has been used to knit sweaters that are as warm as wool."
+  },
+  {
+    "id": "qp-animals-154",
+    "category": "Animals",
+    "word": "DEVON REX",
+    "clues": [
+      "A cat breed with large ears and a pixie-like face",
+      "This breed has an unusually curly, short coat",
+      "Discovered in Devon, England in 1960, it was originally thought to be related to the Cornish Rex"
+    ],
+    "factoid": "Devon Rex cats wag their tails when happy, much like dogs, and are often described as 'monkeys in cat suits.'"
+  },
+  {
+    "id": "qp-animals-155",
+    "category": "Animals",
+    "word": "GREYHOUND",
+    "clues": [
+      "One of the oldest and fastest dog breeds",
+      "This breed can reach speeds of up to 45 miles per hour",
+      "Despite its athletic reputation, it is surprisingly lazy at home and loves to sleep"
+    ],
+    "factoid": "Greyhounds are the only dog breed mentioned by name in the Bible (Proverbs 30:29-31 in some translations)."
+  },
+  {
+    "id": "qp-animals-156",
+    "category": "Animals",
+    "word": "ANGORA",
+    "clues": [
+      "A rabbit breed prized for its long, soft wool",
+      "This breed requires regular grooming to prevent matting",
+      "It shares its name with a historic city in Turkey now called Ankara"
+    ],
+    "factoid": "Angora rabbit wool is about seven times warmer than sheep's wool and is harvested by gentle brushing or plucking."
+  },
+  {
+    "id": "qp-animals-157",
+    "category": "Animals",
+    "word": "AUSTRALIAN SHEPHERD",
+    "clues": [
+      "A highly energetic herding dog with a merle coat pattern",
+      "Despite its name, this breed was actually developed in the western United States",
+      "Known for its heterochromia — having two different colored eyes"
+    ],
+    "factoid": "Australian Shepherds were popularized by rodeo performers in the mid-20th century and are exceptional frisbee dogs."
+  },
+  {
+    "id": "qp-animals-158",
+    "category": "Animals",
+    "word": "TONKINESE",
+    "clues": [
+      "A cat breed that is a cross between two well-known Asian-named breeds",
+      "This breed comes in mink, pointed, and solid coat patterns",
+      "Created by crossing Siamese and Burmese cats"
+    ],
+    "factoid": "Tonkinese cats are known for inventing games and playing fetch without being taught."
+  },
+  {
+    "id": "qp-animals-159",
+    "category": "Animals",
+    "word": "MASTIFF",
+    "clues": [
+      "One of the heaviest dog breeds, often exceeding 200 pounds",
+      "This ancient breed was used as a war dog by the Romans",
+      "Despite its imposing size, it is known as a gentle giant with a calm disposition"
+    ],
+    "factoid": "A Mastiff named Zorba holds the record for the heaviest dog ever, weighing 343 pounds."
+  },
+  {
+    "id": "qp-animals-160",
+    "category": "Animals",
+    "word": "CONURE",
+    "clues": [
+      "A small to medium-sized parrot popular as a pet bird",
+      "This bird is known for its playful, clownish personality",
+      "The sun and green-cheeked varieties are among the most popular pet species"
+    ],
+    "factoid": "Conures are sometimes called the 'clowns of the parrot world' because they love hanging upside down and performing tricks."
+  },
+  {
+    "id": "qp-animals-161",
+    "category": "Animals",
+    "word": "BLOODHOUND",
+    "clues": [
+      "A large scent hound with droopy skin and long ears",
+      "This breed can follow a scent trail that is over 300 hours old",
+      "Its tracking results are admissible as evidence in U.S. courts"
+    ],
+    "factoid": "Bloodhounds have about 300 million scent receptors, the most of any dog breed, and their long ears help funnel scents to their nose."
+  },
+  {
+    "id": "qp-animals-162",
+    "category": "Animals",
+    "word": "CHARTREUX",
+    "clues": [
+      "A rare French cat breed with a woolly blue-gray coat",
+      "This breed is known for its smile-like facial expression",
+      "Legend says it was bred by Carthusian monks in France"
+    ],
+    "factoid": "Chartreux cats are exceptionally quiet and some are completely mute, communicating through chirps rather than meows."
+  },
+  {
+    "id": "qp-animals-164",
+    "category": "Animals",
+    "word": "SCHNAUZER",
+    "clues": [
+      "A bearded dog breed that comes in three sizes",
+      "This breed's name comes from the German word for 'snout'",
+      "Known for its distinctive bushy eyebrows and walrus-like mustache"
+    ],
+    "factoid": "Miniature Schnauzers are the most popular of the three sizes and were originally bred to be ratters on farms."
+  },
+  {
+    "id": "qp-animals-165",
+    "category": "Animals",
+    "word": "SPHINX",
+    "clues": [
+      "A hairless cat breed that originated from a natural mutation",
+      "This breed requires regular bathing because oils accumulate on its skin",
+      "Often misspelled, its proper breed name includes a 'y'"
+    ],
+    "factoid": "Despite appearances, Sphynx cats are not hypoallergenic — allergies are caused by skin proteins, not fur."
+  },
+  {
+    "id": "qp-animals-166",
+    "category": "Animals",
+    "word": "HAVANESE",
+    "clues": [
+      "The national dog of Cuba",
+      "This small breed has a long, silky coat that does not shed",
+      "Named after the capital city of its country of origin"
+    ],
+    "factoid": "Havanese were favorites of Cuban aristocrats and were nearly extinct after the Cuban Revolution until American breeders revived them."
+  },
+  {
+    "id": "qp-animals-167",
+    "category": "Animals",
+    "word": "DISCUS",
+    "clues": [
+      "A colorful freshwater aquarium fish from South America",
+      "This fish is known as the 'king of the aquarium' among hobbyists",
+      "Named for its round, laterally compressed body shape"
+    ],
+    "factoid": "Discus parents feed their fry with a special mucus secreted from their skin, similar to how mammals nurse their young."
+  },
+  {
+    "id": "qp-animals-168",
+    "category": "Animals",
+    "word": "PAPILLON",
+    "clues": [
+      "A small toy spaniel breed with distinctive large ears",
+      "This breed's name is French for 'butterfly'",
+      "It was a favorite of Marie Antoinette and appears in paintings by Rubens and Rembrandt"
+    ],
+    "factoid": "Despite being a toy breed, Papillons consistently rank among the top 10 most intelligent dog breeds."
+  },
+  {
+    "id": "qp-animals-169",
+    "category": "Animals",
+    "word": "HIMALAYAN",
+    "clues": [
+      "A long-haired cat breed with color-pointed markings",
+      "This breed is essentially a cross between a Persian and a Siamese",
+      "Named after a mountain range, though it has no connection to the region"
+    ],
+    "factoid": "Himalayans are sometimes called 'Himmies' by enthusiasts and are among the most popular pedigreed cat breeds in North America."
+  },
+  {
+    "id": "qp-animals-171",
+    "category": "Animals",
+    "word": "NEWFOUNDLAND",
+    "clues": [
+      "A massive, powerful dog breed that excels in water rescue",
+      "This breed has webbed feet and a water-resistant coat",
+      "Named after a Canadian island, it was bred to help fishermen"
+    ],
+    "factoid": "A Newfoundland reportedly saved Napoleon Bonaparte from drowning when he fell overboard during his escape from Elba in 1815."
+  },
+  {
+    "id": "qp-animals-172",
+    "category": "Animals",
+    "word": "SOMALI",
+    "clues": [
+      "A long-haired cat breed with a bushy tail resembling a fox",
+      "This breed is essentially the longhaired version of the Abyssinian",
+      "Named after a country in East Africa, though it was developed in North America"
+    ],
+    "factoid": "Somalis are sometimes called 'fox cats' due to their large ears, masked face, and full bushy tail."
+  },
+  {
+    "id": "qp-animals-173",
+    "category": "Animals",
+    "word": "COONHOUND",
+    "clues": [
+      "An American scent hound developed for tracking treed game",
+      "This breed is known for its distinctive baying voice",
+      "The black and tan variety is one of the oldest American breeds"
+    ],
+    "factoid": "Coonhounds are among the few breeds that can track prey into trees and will bay at the base until their hunter arrives."
+  },
+  {
+    "id": "qp-animals-174",
+    "category": "Animals",
+    "word": "AFRICAN GREY",
+    "clues": [
+      "Considered the most intelligent parrot species",
+      "This bird is renowned for its ability to mimic human speech with remarkable clarity",
+      "A famous individual named Alex could count, identify colors, and understand concepts like 'same' and 'different'"
+    ],
+    "factoid": "Alex, the famous African Grey studied by Dr. Irene Pepperberg, had a vocabulary of over 100 words and could express desires and emotions."
+  },
+  {
+    "id": "qp-animals-175",
+    "category": "Animals",
+    "word": "BICHON FRISE",
+    "clues": [
+      "A small, white, fluffy companion dog with a cheerful disposition",
+      "This breed was popular with French royalty in the 16th century",
+      "Its name translates from French as 'curly lap dog'"
+    ],
+    "factoid": "After falling out of royal favor, Bichon Frises became street performers' dogs, learning tricks to earn money alongside organ grinders."
+  },
+  {
+    "id": "qp-animals-176",
+    "category": "Animals",
+    "word": "EXOTIC SHORTHAIR",
+    "clues": [
+      "A cat breed developed to be a short-haired version of a flat-faced breed",
+      "This breed has the same body type and temperament as a Persian but with easier grooming",
+      "It was created in the 1960s by crossing Persians with American Shorthairs"
+    ],
+    "factoid": "The internet-famous cat Garfield is often said to be an Exotic Shorthair due to his flat face and round body."
+  },
+  {
+    "id": "qp-animals-178",
+    "category": "Animals",
+    "word": "RHODESIAN RIDGEBACK",
+    "clues": [
+      "A large, muscular dog breed from southern Africa",
+      "This breed has a distinctive stripe of backward-growing hair along its spine",
+      "Originally bred to track and hold lions at bay"
+    ],
+    "factoid": "The ridge on a Ridgeback's back is formed by hair growing in the opposite direction and is caused by a genetic mutation."
+  },
+  {
+    "id": "qp-animals-179",
+    "category": "Animals",
+    "word": "OCICAT",
+    "clues": [
+      "A spotted domestic cat breed that resembles a wild cat",
+      "This breed has no wild DNA despite its exotic appearance",
+      "Created accidentally from Siamese and Abyssinian crosses in the 1960s"
+    ],
+    "factoid": "The Ocicat was named because it reminded its breeder's daughter of a baby ocelot."
+  },
+  {
+    "id": "qp-animals-180",
+    "category": "Animals",
+    "word": "SHIH TZU",
+    "clues": [
+      "A small dog breed with a long, flowing coat",
+      "This breed's name means 'lion dog' in Chinese",
+      "It was bred as a palace pet for Chinese emperors"
+    ],
+    "factoid": "All modern Shih Tzus descend from just 14 dogs — seven males and seven females — that were used to rebuild the breed after the Communist Revolution."
+  },
+  {
+    "id": "qp-animals-181",
+    "category": "Animals",
+    "word": "LEOPARD GECKO",
+    "clues": [
+      "One of the most popular pet reptiles for beginners",
+      "This lizard is one of the few gecko species that has eyelids",
+      "Named for its spotted skin pattern resembling a big cat"
+    ],
+    "factoid": "Leopard geckos store fat in their tails and can voluntarily drop their tail if grabbed by a predator, later regrowing it."
+  },
+  {
+    "id": "qp-animals-182",
+    "category": "Animals",
+    "word": "KEESHOND",
+    "clues": [
+      "A medium-sized, fluffy spitz-type dog from the Netherlands",
+      "This breed has distinctive 'spectacle' markings around its eyes",
+      "It was the mascot of a Dutch political party in the 18th century"
+    ],
+    "factoid": "Keeshonds were once called 'Dutch Barge Dogs' because they lived on barges and riverboats as watchdogs and companions."
+  },
+  {
+    "id": "qp-animals-183",
+    "category": "Animals",
+    "word": "SINGAPURA",
+    "clues": [
+      "The smallest recognized domestic cat breed",
+      "This breed has large eyes and ears relative to its tiny body",
+      "Named after the Southeast Asian city-state where it was reportedly found"
+    ],
+    "factoid": "Adult Singapura cats typically weigh only 4 to 8 pounds, about half the weight of an average domestic cat."
+  },
+  {
+    "id": "qp-animals-184",
+    "category": "Animals",
+    "word": "BALL PYTHON",
+    "clues": [
+      "The most popular pet snake in the world",
+      "This snake is named for its defensive behavior of curling into a tight sphere",
+      "Native to West Africa, it comes in over 7,000 color and pattern morphs"
+    ],
+    "factoid": "Ball pythons can live over 30 years in captivity, with the oldest recorded individual reaching 62 years."
+  },
+  {
+    "id": "qp-animals-185",
+    "category": "Animals",
+    "word": "MALTESE",
+    "clues": [
+      "An ancient toy breed with a pure white silky coat",
+      "This breed has been a companion dog for over 2,000 years",
+      "Named after a Mediterranean island, it was prized by ancient Greek and Roman nobility"
+    ],
+    "factoid": "The ancient Greeks built tombs for their Maltese dogs, and Aristotle himself described the breed as 'perfectly proportioned.'"
+  },
+  {
+    "id": "qp-animals-186",
+    "category": "Animals",
+    "word": "TURKISH VAN",
+    "clues": [
+      "A rare cat breed known for loving water",
+      "This breed has a distinctive color pattern with markings only on its head and tail",
+      "Named after a lake region in eastern Turkey"
+    ],
+    "factoid": "Turkish Vans are nicknamed 'swimming cats' and have a water-resistant, cashmere-like coat that dries quickly."
+  },
+  {
+    "id": "qp-animals-187",
+    "category": "Animals",
+    "word": "CLOWNFISH",
+    "clues": [
+      "A brightly colored saltwater aquarium fish",
+      "This species lives in a symbiotic relationship with sea anemones",
+      "A Pixar movie made this fish one of the most recognized marine species"
+    ],
+    "factoid": "All clownfish are born male, and the dominant fish in a group will change sex to become female when needed."
+  },
+  {
+    "id": "qp-animals-188",
+    "category": "Animals",
+    "word": "CHOW CHOW",
+    "clues": [
+      "A fluffy, lion-like dog breed from China",
+      "This breed is one of the few with a blue-black tongue",
+      "It is one of the most ancient dog breeds, possibly dating back over 2,000 years"
+    ],
+    "factoid": "Sigmund Freud kept a Chow Chow named Jofi in his office during therapy sessions, believing the dog could judge a patient's mental state."
+  },
+  {
+    "id": "qp-animals-189",
+    "category": "Animals",
+    "word": "MUNCHKIN",
+    "clues": [
+      "A cat breed known for its unusually short legs",
+      "This breed is sometimes called the 'dachshund of the cat world'",
+      "Named after the small characters in The Wizard of Oz"
+    ],
+    "factoid": "Despite their short legs, Munchkin cats can run and jump surprisingly well, though they cannot jump as high as longer-legged breeds."
+  },
+  {
+    "id": "qp-animals-190",
+    "category": "Animals",
+    "word": "GERBIL",
+    "clues": [
+      "A small, burrowing rodent from the Mongolian desert",
+      "This pet is known for thumping its hind legs when excited or alarmed",
+      "Unlike hamsters, this animal is social and should be kept in pairs"
+    ],
+    "factoid": "Gerbils are illegal to own in California and Hawaii because escaped individuals could establish wild colonies that harm native ecosystems."
+  },
+  {
+    "id": "qp-animals-191",
+    "category": "Animals",
+    "word": "IRISH WOLFHOUND",
+    "clues": [
+      "The tallest of all dog breeds when standing on hind legs",
+      "This ancient breed was originally used to hunt wolves and elk",
+      "Roman consul Aurelius wrote about receiving seven of these dogs as a gift in 391 AD"
+    ],
+    "factoid": "Irish Wolfhounds are so gentle despite their size that they have been described as 'gentle when stroked, fierce when provoked.'"
+  },
+  {
+    "id": "qp-animals-192",
+    "category": "Animals",
+    "word": "CORNISH REX",
+    "clues": [
+      "A cat breed with a wavy, curly coat unlike typical cat fur",
+      "This breed originated in Cornwall, England from a barn cat mutation in the 1950s",
+      "It has an arched back and large ears, giving it a greyhound-like profile"
+    ],
+    "factoid": "Cornish Rex cats have only the undercoat layer of fur, making their coat feel like crushed velvet or silk."
+  },
+  {
+    "id": "qp-animals-193",
+    "category": "Animals",
+    "word": "COCKATOO",
+    "clues": [
+      "A large crested parrot known for its loud calls",
+      "This bird is native to Australia and nearby islands",
+      "It is famous for its dramatic, fan-shaped crest that rises when excited"
+    ],
+    "factoid": "Cockatoos are one of the few non-human species observed making and using tools in the wild to extract food."
+  },
+  {
+    "id": "qp-animals-194",
+    "category": "Animals",
+    "word": "CATAHOULA",
+    "clues": [
+      "The state dog of Louisiana",
+      "This working breed is known for its 'glass eyes' — strikingly pale blue or multicolored eyes",
+      "Named after a parish in Louisiana, it was bred to track and herd wild boar"
+    ],
+    "factoid": "Catahoulas are believed to be descended from dogs kept by Native Americans crossed with Spanish explorers' war dogs."
+  },
+  {
+    "id": "qp-animals-195",
+    "category": "Animals",
+    "word": "BALINESE",
+    "clues": [
+      "A long-haired cat breed despite originating from a short-haired parent breed",
+      "This breed is essentially a Siamese with a longer coat",
+      "Named after the graceful dancers of an Indonesian island"
+    ],
+    "factoid": "Balinese cats produce significantly less Fel d 1 allergen than most cat breeds, making them one of the more hypoallergenic options."
+  },
+  {
+    "id": "qp-animals-196",
+    "category": "Animals",
+    "word": "SUGAR GLIDER",
+    "clues": [
+      "A small, nocturnal marsupial kept as an exotic pet",
+      "This animal has a membrane between its legs that allows it to glide through the air",
+      "Native to Australia and Indonesia, it bonds closely with its owner through scent"
+    ],
+    "factoid": "Sugar gliders can glide up to 150 feet in a single leap and use their tail as a rudder for steering."
+  },
+  {
+    "id": "qp-animals-197",
+    "category": "Animals",
+    "word": "PHARAOH HOUND",
+    "clues": [
+      "An elegant, athletic sighthound and the national dog of Malta",
+      "This breed has a unique trait of blushing — its nose and ears turn pink when excited",
+      "Despite its name, DNA evidence shows no direct connection to ancient Egyptian dogs"
+    ],
+    "factoid": "Pharaoh Hounds are one of the few dog breeds that visibly blush, with their nose and ears turning rosy when they are happy."
+  },
+  {
+    "id": "qp-animals-198",
+    "category": "Animals",
+    "word": "NETHERLAND DWARF",
+    "clues": [
+      "One of the smallest pet rabbit breeds",
+      "This breed weighs only 1 to 2.5 pounds as an adult",
+      "Developed in the Netherlands in the early 20th century from Polish rabbits"
+    ],
+    "factoid": "Netherland Dwarf rabbits have a gene called 'dwarf gene' that makes them small, but two copies of it are lethal to embryos."
+  },
+  {
+    "id": "qp-animals-199",
+    "category": "Animals",
+    "word": "KUVASZ",
+    "clues": [
+      "A large, white Hungarian livestock guardian dog",
+      "This breed was once exclusively owned by Hungarian royalty",
+      "King Matthias Corvinus of Hungary trusted these dogs more than his own guards"
+    ],
+    "factoid": "The Kuvasz nearly went extinct after World War II when German and Soviet soldiers specifically targeted these guardian dogs."
+  },
+  {
+    "id": "qp-animals-200",
+    "category": "Animals",
+    "word": "TANG",
+    "clues": [
+      "A brightly colored saltwater aquarium fish popular in reef tanks",
+      "This fish is known for a sharp spine near its tail that it uses for defense",
+      "The blue variety became famous as a character in a Pixar film about a forgetful fish"
+    ],
+    "factoid": "Tangs are also called surgeonfish because the sharp spines near their tails are as sharp as a surgeon's scalpel."
+  }
+]
