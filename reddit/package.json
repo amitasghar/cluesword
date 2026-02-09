@@ -1,0 +1,13 @@
+{
+  "name": "cluesword",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@devvit/public-api": "0.12.11"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

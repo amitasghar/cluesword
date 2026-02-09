@@ -1,0 +1,189 @@
+[
+  {
+    "id": "daily-001",
+    "category": "Countries",
+    "word": "INDIA",
+    "clues": [
+      "This Asian nation has over 1 billion people",
+      "The Taj Mahal is located here",
+      "Its flag features a navy blue wheel with 24 spokes"
+    ],
+    "factoid": "India has 22 officially recognized languages."
+  },
+  {
+    "id": "daily-002",
+    "category": "Cities",
+    "word": "TOKYO",
+    "clues": [
+      "This Asian megacity has over 37 million people in its metro area",
+      "Hosted the Summer Olympics twice",
+      "Known for Shibuya Crossing and cherry blossoms"
+    ],
+    "factoid": "Tokyo was originally called Edo until 1868."
+  },
+  {
+    "id": "daily-003",
+    "category": "Animals",
+    "word": "DOLPHIN",
+    "clues": [
+      "This is an intelligent marine mammal",
+      "Known for its playful behavior and acrobatics",
+      "Flipper was a famous one on TV"
+    ],
+    "factoid": "Dolphins sleep with one eye open and half their brain awake."
+  },
+  {
+    "id": "daily-004",
+    "category": "Movies",
+    "word": "TITANIC",
+    "clues": [
+      "This 1997 film won 11 Academy Awards",
+      "Features a tragic love story aboard a doomed ship",
+      "Directed by James Cameron, stars Leonardo DiCaprio"
+    ],
+    "factoid": "The movie's budget was more than the actual ship cost to build."
+  },
+  {
+    "id": "daily-005",
+    "category": "Famous People",
+    "word": "EINSTEIN",
+    "clues": [
+      "This German-born scientist revolutionized physics",
+      "Published the theory of relativity",
+      "Famous for the equation E=mc²"
+    ],
+    "factoid": "Einstein's brain was preserved after his death for study."
+  },
+  {
+    "id": "daily-006",
+    "category": "Countries",
+    "word": "BRAZIL",
+    "clues": [
+      "This South American country spans multiple time zones",
+      "Home to the Amazon rainforest",
+      "Hosted the 2014 FIFA World Cup"
+    ],
+    "factoid": "Brazil is the only Portuguese-speaking country in the Americas."
+  },
+  {
+    "id": "daily-007",
+    "category": "Cities",
+    "word": "PARIS",
+    "clues": [
+      "This European capital is known as the City of Light",
+      "Home to a famous iron tower built in 1889",
+      "The Louvre museum is located here"
+    ],
+    "factoid": "Paris has only one stop sign in the entire city."
+  },
+  {
+    "id": "daily-008",
+    "category": "Famous People",
+    "word": "TAYLOR SWIFT",
+    "clues": [
+      "This singer-songwriter started in country music as a teenager",
+      "Her Eras Tour became the highest-grossing concert tour ever",
+      "Albums include '1989', 'Folklore', and 'Midnights'"
+    ],
+    "factoid": "Taylor Swift re-recorded her first six albums to own her masters."
+  },
+  {
+    "id": "daily-009",
+    "category": "Famous People",
+    "word": "OPRAH",
+    "clues": [
+      "This media mogul built an empire from a daytime talk show",
+      "Her book club picks instantly become bestsellers",
+      "First Black female billionaire in the United States"
+    ],
+    "factoid": "Oprah's talk show ran for 25 seasons and won 47 Daytime Emmys."
+  },
+  {
+    "id": "daily-010",
+    "category": "Famous People",
+    "word": "DRAKE",
+    "clues": [
+      "This rapper started his career as an actor on a Canadian teen drama",
+      "Known for hits like 'Hotline Bling' and 'God's Plan'",
+      "Born Aubrey Graham in Toronto"
+    ],
+    "factoid": "Drake holds the record for the most top-10 hits on the Billboard Hot 100."
+  },
+  {
+    "id": "daily-011",
+    "category": "Famous People",
+    "word": "CONAN O BRIEN",
+    "clues": [
+      "This red-haired comedian hosted late-night TV for nearly 30 years",
+      "Was president of the Harvard Lampoon before his TV career",
+      "Known for his self-deprecating humor and string dance"
+    ],
+    "factoid": "Conan was a writer for The Simpsons before becoming a talk show host."
+  },
+  {
+    "id": "daily-012",
+    "category": "Famous People",
+    "word": "DAVID LETTERMAN",
+    "clues": [
+      "This gap-toothed host pioneered irreverent late-night comedy",
+      "Famous for his nightly Top Ten Lists",
+      "Hosted shows on both NBC and CBS over 33 years"
+    ],
+    "factoid": "Letterman's Late Show studio was the same one where The Beatles played on Ed Sullivan."
+  },
+  {
+    "id": "daily-013",
+    "category": "Movies",
+    "word": "THE MATRIX",
+    "clues": [
+      "This 1999 sci-fi film asks 'What is real?'",
+      "Features a hero who must choose between a red pill and a blue pill",
+      "Stars Keanu Reeves as a hacker named Neo"
+    ],
+    "factoid": "The Matrix pioneered 'bullet time' photography using 120 cameras firing in sequence."
+  },
+  {
+    "id": "daily-014",
+    "category": "Movies",
+    "word": "STAR WARS",
+    "clues": [
+      "This space opera franchise began in 1977",
+      "Features a conflict between the Jedi and the Sith",
+      "Created by George Lucas, opens with a text crawl"
+    ],
+    "factoid": "The lightsaber sound was made by combining a TV set hum and a film projector motor."
+  },
+  {
+    "id": "daily-015",
+    "category": "Movies",
+    "word": "DUNE",
+    "clues": [
+      "This epic sci-fi story is set on a desert planet",
+      "Giant sandworms guard its most valuable resource",
+      "Based on Frank Herbert's 1965 novel"
+    ],
+    "factoid": "Frank Herbert was inspired by the Oregon sand dunes when writing Dune."
+  },
+  {
+    "id": "daily-016",
+    "category": "Movies",
+    "word": "JUMANJI",
+    "clues": [
+      "This adventure film features a magical board game",
+      "Players must finish the game or face jungle chaos",
+      "Originally starred Robin Williams in 1995"
+    ],
+    "factoid": "The word 'Jumanji' means 'many effects' in Zulu."
+  },
+  {
+    "id": "daily-017",
+    "category": "Movies",
+    "word": "SCARFACE",
+    "clues": [
+      "This crime film follows a Cuban immigrant's rise in Miami",
+      "Features one of cinema's most quoted lines: 'Say hello to my little friend'",
+      "Stars Al Pacino as Tony Montana"
+    ],
+    "factoid": "Al Pacino's accent in Scarface was inspired by a Cuban accent coach he worked with for months."
+  }
+]

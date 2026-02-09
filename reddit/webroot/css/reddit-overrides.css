@@ -1,0 +1,72 @@
+/* Reddit webview overrides — tighter layout for narrow iframe */
+
+html, body {
+  min-height: auto;
+  overflow-x: hidden;
+}
+
+.app-container {
+  max-width: 100%;
+  padding: var(--spacing-sm);
+  min-height: auto;
+}
+
+.header {
+  padding: var(--spacing-xs) 0;
+  margin-bottom: var(--spacing-sm);
+}
+
+.game-title {
+  font-size: 1.25rem;
+}
+
+.category-display {
+  margin-bottom: var(--spacing-sm);
+}
+
+.game-board {
+  gap: var(--spacing-sm);
+}
+
+.clue-card {
+  padding: var(--spacing-sm);
+}
+
+.clue-text {
+  font-size: 0.875rem;
+}
+
+.input-wrapper {
+  gap: var(--spacing-xs);
+}
+
+.guess-input {
+  padding: var(--spacing-sm) var(--spacing-md);
+  font-size: 0.9rem;
+  min-width: 0;
+}
+
+.submit-btn {
+  padding: var(--spacing-sm) var(--spacing-md);
+  font-size: 0.875rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.input-area {
+  padding-top: var(--spacing-sm);
+}
+
+.letter-boxes-container {
+  padding: var(--spacing-xs) 0;
+}
+
+.footer {
+  padding: var(--spacing-xs) 0;
+  margin-top: var(--spacing-sm);
+}
+
+.modal-content {
+  width: 95%;
+  padding: var(--spacing-md);
+}
